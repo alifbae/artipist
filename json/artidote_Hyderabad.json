@@ -1,0 +1,1179 @@
+{
+  "bundle_variant": "base", 
+  "config": {
+    "csrf_token": "XIUvGBBzhHL4l92loGH6THGf74DwwXu6", 
+    "viewer": null, 
+    "viewerId": null
+  }, 
+  "country_code": "PK", 
+  "deployment_stage": "c2", 
+  "entry_data": {
+    "PostPage": [
+      {
+        "graphql": {
+          "shortcode_media": {
+            "__typename": "GraphImage", 
+            "accessibility_caption": null, 
+            "caption_is_edited": true, 
+            "comments_disabled": false, 
+            "dimensions": {
+              "height": 1080, 
+              "width": 1080
+            }, 
+            "display_resources": [
+              {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f552941b50b83c017c877aaa1c4cf871/5C90826D/t51.2885-15/sh0.08/e35/s640x640/41544234_1796654570433093_6330229699359844291_n.jpg"
+              }, 
+              {
+                "config_height": 750, 
+                "config_width": 750, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/aae795a4bb6c23d5f916245a33e1885f/5CA572A9/t51.2885-15/sh0.08/e35/s750x750/41544234_1796654570433093_6330229699359844291_n.jpg"
+              }, 
+              {
+                "config_height": 1080, 
+                "config_width": 1080, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/d943d13ad440c1b04b131c7e6c86cf3a/5CA849D7/t51.2885-15/e35/41544234_1796654570433093_6330229699359844291_n.jpg"
+              }
+            ], 
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/d943d13ad440c1b04b131c7e6c86cf3a/5CA849D7/t51.2885-15/e35/41544234_1796654570433093_6330229699359844291_n.jpg", 
+            "edge_media_preview_like": {
+              "count": 1857, 
+              "edges": []
+            }, 
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Hyderabad family, if you\u2019ve had a positive experience with a professional therapist who you\u2019d recommend without a doubt, leave their contact info in the comments. And if you\u2019re comfortable, leave also a bit about your positive experience with them. My idea is to create a stream of reliable resources in the comments of these posts so that others in the vicinity may benefit from our collective experience. \nBut I understand the stigmas still surrounding Mental Health so, if you prefer anonymity, you may also send me a DM with your recommendations :)\n\ud83c\udf31\n#ArtidoteLifelines is a new initiative here at The Artidote. It can be difficult finding a therapist \u2014 Where do you start? Who do you trust? My goal is to begin building a database of Mental Health resources in cities all over the world; professional resources that carry The Artidote community\u2019s seal of approval.\n\u2b50\ufe0f\nMy wish is to be able to provide more help with this platform beyond the daily content that I already share. Sometimes I receive messages from individuals that require more support than what I can currently provide through my channels. In these situations, I\u2019d like to have a list of resources that I can refer them to. So I need the entire global community\u2019s support in the coming days, weeks & months as I share posts asking for recommendations for cities across the world.\n\ud83c\udf38\nToday I\u2019m asking anyone in #Hyderabad, India to send in your recommendations based on your personal experience. Any mental health resources in your area will be welcomed and appreciated by us all. \nTHANK YOU\n\u2764\ufe0f\nWe\u2019re all in this together. And together we\u2019ll bloom.\n\u2014@jovaferreyra\n\u2014\nphoto by Shrichandra Yadav"
+                  }
+                }
+              ]
+            }, 
+            "edge_media_to_comment": {
+              "count": 58, 
+              "edges": [
+                {
+                  "node": {
+                    "created_at": 1537980274, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17921882881213761", 
+                    "owner": {
+                      "id": "3424458140", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/19e61ddf92f820b8c39747b79108e086/5CA52793/t51.2885-19/s150x150/44745906_2125994957451820_658110747775074304_n.jpg", 
+                      "username": "abhilashawww"
+                    }, 
+                    "text": "@theartidote thank you so much for this\ud83d\udc95", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537980535, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17961644878093118", 
+                    "owner": {
+                      "id": "3558269339", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f1b1ec5be1ddddcadf9b3de8026abe2e/5C988B7D/t51.2885-19/s150x150/44307562_505881806581146_7660965210626195456_n.jpg", 
+                      "username": "aishwaryav21294"
+                    }, 
+                    "text": "@vidushisanghadia_", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537980552, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17956207345135804", 
+                    "owner": {
+                      "id": "3558269339", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f1b1ec5be1ddddcadf9b3de8026abe2e/5C988B7D/t51.2885-19/s150x150/44307562_505881806581146_7660965210626195456_n.jpg", 
+                      "username": "aishwaryav21294"
+                    }, 
+                    "text": "@durgaravindran", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537980685, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17953873135157769", 
+                    "owner": {
+                      "id": "353254828", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/7244ddf07af07d4c2c2f8fbcef6162f1/5CB10045/t51.2885-19/s150x150/14716542_1659941224316057_52223018453172224_a.jpg", 
+                      "username": "theraeesi"
+                    }, 
+                    "text": "Sandhya Luther at Hope Trust saved my life. If you need a Psychiatrist, Dr. Sri Lakshmi at Roshni Counseling centre is amazing.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537980788, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17884407514264666", 
+                    "owner": {
+                      "id": "353254828", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/7244ddf07af07d4c2c2f8fbcef6162f1/5CB10045/t51.2885-19/s150x150/14716542_1659941224316057_52223018453172224_a.jpg", 
+                      "username": "theraeesi"
+                    }, 
+                    "text": "@varshamohan04 +1", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537985355, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17884593022269549", 
+                    "owner": {
+                      "id": "3899295365", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/eb6571df6edd909044f39d041744a229/5C944AD2/t51.2885-19/s150x150/43778278_2028796197366985_6223666121690578944_n.jpg", 
+                      "username": "amnaa.z__"
+                    }, 
+                    "text": "@samra.fatima", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537986548, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17922756271205117", 
+                    "owner": {
+                      "id": "2964309627", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/bbfdbe6c7932e03fc0cae81aa415ef29/5CAAC16B/t51.2885-19/s150x150/45356432_991964337655593_6375704150038020096_n.jpg", 
+                      "username": "_kolahala"
+                    }, 
+                    "text": "Do for Chennai please", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537989183, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17893409227249073", 
+                    "owner": {
+                      "id": "1994956686", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/5b8c431069fe6f02b545f2da3facfee4/5C908B6F/t51.2885-19/s150x150/45301310_634083807008480_6641847820078809088_n.jpg", 
+                      "username": "naveenisarapu"
+                    }, 
+                    "text": "Asha hospital, Banjara Hills. Trust me there\u2019s nothing wrong in seeking mental health treatment.\u2764\ufe0f", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537989868, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17873181649300496", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation:\n\u201cDr. Sujatha Rajamani from Kims hospital. Her contact number is +91 98480 43200. She helped me get through a lot of things and really puts forward an approach which helps you feel better, warmer. I\u2019d highly recommend her.\n\nHer appointment can be taken through calling the kims hospital.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537990111, 
+                    "edge_liked_by": {
+                      "count": 5
+                    }, 
+                    "id": "17884572664269782", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cSahana Rabindranath - SwitchNov -+919849777811\n\u2022\nShe literally helped me get out of 4 years (or more) of depression. She worked with me through professional techniques and the results truly showed over time. She does charge for her sessions but if you're already one of her patients she always replies via text or call when you need her and she's free.\n\u2022\nMost importantly she doesn't prescribe medication unless extremely necessary which i think is super important.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537994266, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17984073895030310", 
+                    "owner": {
+                      "id": "704585983", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f13416db4f47e4dbc05eabe364cde6ff/5C8E5162/t51.2885-19/s150x150/35449694_1821697424553480_4032859499353079808_n.jpg", 
+                      "username": "agonisingcries"
+                    }, 
+                    "text": "@theartidote would advice you to not share personal phone numbers and details of work on a social media platform. You are risking the security and violating the right to privacy of these people. Please use a better and safer platform for such initiatives. I appreciate your interest and your initiative, but not at the risk of someone somewhere whom you dont even know.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537995865, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17954530909145709", 
+                    "owner": {
+                      "id": "1601214391", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c068f18751adab6894d4e3e57290a3d6/5C909C7D/t51.2885-19/s150x150/44487695_573902256385998_519933145827508224_n.jpg", 
+                      "username": "666_its_satans_bitch"
+                    }, 
+                    "text": "Can you guys do one for Watford or London? \ud83d\udda4", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537997383, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17983047706031438", 
+                    "owner": {
+                      "id": "1569757529", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e87aa0c000050e5bbf38fd6a14194feb/5C7682A5/t51.2885-19/s150x150/42860747_345045192710739_150025441032273920_n.jpg", 
+                      "username": "samra.fatima"
+                    }, 
+                    "text": "@amnaa.z__ um Amna this is Hyderabad, India and i am from Hyderabad, Pakistan ! \ud83d\ude02", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538000793, 
+                    "edge_liked_by": {
+                      "count": 7
+                    }, 
+                    "id": "17953427863157472", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "@agonisingcries thank you for your feedback. I agree 100%. I try to have the contact info vetted before I share it. Which means that these numbers are either work phones or have received previous approval by the number holders to be shared on a public platform. \u2022\nFor anybody else that may read this message: when it comes to sharing the contact info of a trusted professional, a work email or website link will suffice. Please do not share phone numbers unless you\u2019ve received previous approval about sharing it on this platform. thank you :)", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538017122, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17953651093181468", 
+                    "owner": {
+                      "id": "4539410211", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/855c7af25c4a1bd6cdf89362ecaabc43/5C916D25/t51.2885-19/s150x150/20759534_1944256419190479_2695074944399704064_a.jpg", 
+                      "username": "starboy_0345"
+                    }, 
+                    "text": "I know a doctor yet is an amazing counsuling psychiatrist his name is Dr Prashanth he works in yashoda hospital, he really is amazing has lot of patience to listen to your problem through first", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538017435, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17953947778144765", 
+                    "owner": {
+                      "id": "1454641137", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/abfbfaaf2aa53a0e301ac9d8745416b1/5CAB6CBA/t51.2885-19/s150x150/36135858_203978010455513_7919211191723884544_n.jpg", 
+                      "username": "kotturaa"
+                    }, 
+                    "text": "@theartidote amazing artidote has got followers from all parts of world :)", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538018322, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17983236628004002", 
+                    "owner": {
+                      "id": "826594692", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/91d0ae27c9bbe1b485b7eb457cb5b9be/5CB25F81/t51.2885-19/s150x150/41292806_290603491538733_8381354564741234688_n.jpg", 
+                      "username": "amoghaarnava"
+                    }, 
+                    "text": "Dr Prashant Kocherlakota at Yashoda Hospital Somajiguda. He's a clinical psychologist.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538021601, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17984006383007909", 
+                    "owner": {
+                      "id": "3899295365", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/eb6571df6edd909044f39d041744a229/5C944AD2/t51.2885-19/s150x150/43778278_2028796197366985_6223666121690578944_n.jpg", 
+                      "username": "amnaa.z__"
+                    }, 
+                    "text": "@samra.fatima duh, sorry!\ud83d\ude05\ud83d\ude48", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538025772, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17982735106051867", 
+                    "owner": {
+                      "id": "180733321", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/46f805c430446cd86f68ef8ba6d7eeee/5C93AA0A/t51.2885-19/s150x150/44444098_563249904095490_4377847859731496960_n.jpg", 
+                      "username": "praniti123"
+                    }, 
+                    "text": "@_.wildflowermama", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538035097, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17911240918224751", 
+                    "owner": {
+                      "id": "1541012338", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/382691ac3ac02415aca3e0c5bbd566ea/5C781CA8/t51.2885-19/s150x150/39119745_1986878528030786_361878572673007616_n.jpg", 
+                      "username": "laid_back_lad_y"
+                    }, 
+                    "text": "Can anyone recommend someone out here in Delhi?? This is a cry for help.I had a very bad experience once and since then I have been struggling to help myself. It's difficult. But, if anyone has experienced a positive outcome, please be kind enough to help.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538037517, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17865423247283718", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "@laid_back_lad_y fortunately, the Delhi post is already up with lots of great resources. Find it here: #ArtidoteLifelines \u2764\ufe0f", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538038348, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17951021716167257", 
+                    "owner": {
+                      "id": "1541012338", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/382691ac3ac02415aca3e0c5bbd566ea/5C781CA8/t51.2885-19/s150x150/39119745_1986878528030786_361878572673007616_n.jpg", 
+                      "username": "laid_back_lad_y"
+                    }, 
+                    "text": "@theartidote Much appreciated. More power to you. \ud83d\ude42", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538039894, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17953735843180122", 
+                    "owner": {
+                      "id": "207530388", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/dfd6df79081fe4bb42cdf110793c6ff3/5CA46076/t51.2885-19/s150x150/13108952_960653160697407_1528264010_a.jpg", 
+                      "username": "preetikuber"
+                    }, 
+                    "text": "Smitha Devara in Banjara hills. The best counsellor I've been to.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538043278, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17920920271210872", 
+                    "owner": {
+                      "id": "704585983", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f13416db4f47e4dbc05eabe364cde6ff/5C8E5162/t51.2885-19/s150x150/35449694_1821697424553480_4032859499353079808_n.jpg", 
+                      "username": "agonisingcries"
+                    }, 
+                    "text": "@theartidote Thank you for replying back. I hope you understand why I raised the topic and I am very happy to know that you have taken measures to curb such actions. Appreciate your initiative and would support it in the ways i can. Good luck. Cheers! :)", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538049581, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17953496641162725", 
+                    "owner": {
+                      "id": "3466600071", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/11749ef37f02331772c2528379735e69/5CAA0C9A/t51.2885-19/s150x150/44365023_2240466156198026_2633562276757504_n.jpg", 
+                      "username": "sagarika_sringar"
+                    }, 
+                    "text": "Dr.Kalpana Srinagar, Banjara Hills", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538061238, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17968786564105807", 
+                    "owner": {
+                      "id": "3904996835", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/06defc09d545b05c6cc95d149671a408/5CAC63C8/t51.2885-19/s150x150/22069548_1771348093170700_4811752578691891200_n.jpg", 
+                      "username": "sahitikonkimalla"
+                    }, 
+                    "text": "Dr prashant kocherlakota at yashoda hospital is the best doctor.He changed my life completely.he is more than just a doctor to me", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538064464, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17865787366304100", 
+                    "owner": {
+                      "id": "289480187", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f452a24b3dfdaaa95dfa5f7eaff78168/5CA87CC8/t51.2885-19/s150x150/43779019_307685430065336_6675343673019858944_n.jpg", 
+                      "username": "dishkaow"
+                    }, 
+                    "text": "@raisa.bhatia do you know anyone?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538065168, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17954907373183729", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cDr. Purnima Nagraja at Drithi psychiatric care in Hyderabad. She is a psychiatrist but does psychotherpay as well.\nwww.practo.com/hyderabad/doctor/dr-purnima-nagaraja-psychiatrist-2/amp\n\u2022\n1to1help.com has various counselors as well and you can choose any way of communication. E-mail phone or face to face. They have counselors both in Hyderabad and Bangalore.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538077366, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17894233747247959", 
+                    "owner": {
+                      "id": "3414120480", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/115cbf2879e19ee863e6b1c21aaf3e88/5C8FB2F4/t51.2885-19/s150x150/45748418_768031063560733_711947359671549952_n.jpg", 
+                      "username": "raisa.bhatia"
+                    }, 
+                    "text": "Yes will spread the word", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538107340, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17962651762093426", 
+                    "owner": {
+                      "id": "1109446722", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/258ce339e9c3f65c83a668b88f983059/5C93C3BB/t51.2885-19/11241712_807344332694221_671018674_a.jpg", 
+                      "username": "patrickkoleman"
+                    }, 
+                    "text": "Dr. @vamshikalyan", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538116701, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17968676953101240", 
+                    "owner": {
+                      "id": "3058685586", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/70fe287d0c19a4724772525e90d0a2f5/5C8F74DF/t51.2885-19/s150x150/13391210_1786465448306388_1097523935_a.jpg", 
+                      "username": "christie.maria91"
+                    }, 
+                    "text": "@sruteashok  follow this!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538118588, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17853042121292566", 
+                    "owner": {
+                      "id": "507906193", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/cbafa4f1940885f4b828fd276cc8905b/5CA60F24/t51.2885-19/s150x150/44583681_474700842937859_5370515694913847296_n.jpg", 
+                      "username": "ikilledjoffrey"
+                    }, 
+                    "text": "@proshotter_98 help", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538124107, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17948225311174282", 
+                    "owner": {
+                      "id": "1442082860", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/9fbf942014d6556e45f36c2e60c4ff15/5C78DB2A/t51.2885-19/s150x150/43914707_748948705437730_6481927650569879552_n.jpg", 
+                      "username": "proshotter_98"
+                    }, 
+                    "text": "@ikilledjoffrey please reach me at 911", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538227327, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17954673718147842", 
+                    "owner": {
+                      "id": "1569757529", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e87aa0c000050e5bbf38fd6a14194feb/5C7682A5/t51.2885-19/s150x150/42860747_345045192710739_150025441032273920_n.jpg", 
+                      "username": "samra.fatima"
+                    }, 
+                    "text": "@amnaa.z__ hahaha \u2665\ufe0f\ud83d\ude02", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538816410, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17895995113252527", 
+                    "owner": {
+                      "id": "2203847011", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/51354094afe739f91aa9c2c994caa2ce/5C7BB77F/t51.2885-19/s150x150/44580392_2269680516587054_190046388678033408_n.jpg", 
+                      "username": "sevenpercentcocaine"
+                    }, 
+                    "text": "@innovativeusernamesarerare !!!!!!!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1539062880, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17972449183116034", 
+                    "owner": {
+                      "id": "4619971796", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/76e49e3c99dac2a6ec8190a9c2590b98/5CA5C25C/t51.2885-19/s150x150/43985295_243452682990099_7367416556860473344_n.jpg", 
+                      "username": "ansh.dilation"
+                    }, 
+                    "text": "Dr. V George Reddy. A neuropsychiatrist in Trimulgherry. Can be booked by Practo. I highly recommend him.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1539800910, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17960171107152651", 
+                    "owner": {
+                      "id": "4710902418", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/4615e22f802d819f82a0cac9f8865191/5C951532/t51.2885-19/s150x150/43779103_245451266129248_5958336970722639872_n.jpg", 
+                      "username": "blackbrush_artmenu"
+                    }, 
+                    "text": "Somehow i missed this post earlier. My recommendation for Hyderabad is Dr. Naresh Vadlamani of Columbus Hospital : Institute of Psychiatry and Neurosciences, Hyderabad centre for Suicide prevention. Best doctor ever!!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1539858789, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17964838123137040", 
+                    "owner": {
+                      "id": "2171867092", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/1ff1ee3d4d8d787b7d63dbefafb895e4/5C727EE4/t51.2885-19/s150x150/34146077_192123591622410_3945528237106397184_n.jpg", 
+                      "username": "hanging_scarf"
+                    }, 
+                    "text": "Oxygen is also really great, near Masab tank", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1539970392, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17972381644126187", 
+                    "owner": {
+                      "id": "8173377349", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/fe104d731a523e915f9ecbd52c70039c/5C989E4C/t51.2885-19/s150x150/36500579_247704312627507_2747964112280485888_n.jpg", 
+                      "username": "anjaliavasarala"
+                    }, 
+                    "text": "Aarathi Selvan at Pause for Perspective. Contact: 70325 62301. You can also book an appointment at practo", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1540062919, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17982302413076225", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cHello \nI just want to mention Pause for Perspective here in Hyderabad offers individual therapy, group therapy, mindfulness programmes and many more! \nThe founder is Aarathi Selvan who is the lead psychologist at Pause for Perspective. \nI have been seeing her for the past 4 years and she is extremely good. Me and my friends recommend her very much. You can check her out on practo as well. Here is the contact number of the office: 7032562301\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }
+              ], 
+              "page_info": {
+                "end_cursor": "QVFBVnhweFZWNHc3SUtUcHoxTjE2bExrY2l1My1DYzNYb0J1R0NmY1F6RXBETHRjOHRuYWF2OXAyd0ZCSnp3bWM4aFN4RkdfYzA1TEkxVkFKVDBZMncxYg==", 
+                "has_next_page": true
+              }
+            }, 
+            "edge_media_to_sponsor_user": {
+              "edges": []
+            }, 
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }, 
+            "edge_web_media_to_related_media": {
+              "edges": []
+            }, 
+            "gating_info": null, 
+            "has_ranked_comments": false, 
+            "id": "1877023747127901614", 
+            "is_ad": false, 
+            "is_video": false, 
+            "location": null, 
+            "media_preview": "ACoqqBSB2x9B/PFBQt/9Yf4VehvI1RUYZOTjIyMkjHPYdc1ZN3BGxCjgcAgDnIPfqOT17isL9bm9n2MfZR5dazXUHZPT+EdM8j64796V7yAgrtODzjaOTjHrx25FF13QWfZmN5eelJsrZ+226sGC4xjnaOx6df168VkkgnNJu3mCjfoUGSUAfX8adsl9anVQxAJ2j1Oak8lP+ei/+Pf4VV/QPv8AvZSETnqf1+lKEkHfH41c8pem9f8Ax7/CjyVz99cY68/yxmnd+QtPMolHPU5/H2qIo3+TWg8ar0YN9M/1AqPYKOawmrlxZwABuccY6KfypxnHTe+PotU6SpuOxc88f32/75X19fX/APVR547M3/fK/hVSii4WLn2gf33x/urn/wDVVVmySck89en6dqbSUXHY/9k=", 
+            "owner": {
+              "blocked_by_viewer": false, 
+              "followed_by_viewer": false, 
+              "full_name": "the artidote", 
+              "has_blocked_viewer": false, 
+              "id": "560672181", 
+              "is_private": false, 
+              "is_unpublished": false, 
+              "is_verified": true, 
+              "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+              "requested_by_viewer": false, 
+              "username": "theartidote"
+            }, 
+            "shortcode": "BoMhycyh_2u", 
+            "should_log_client_event": false, 
+            "taken_at_timestamp": 1537978689, 
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjY4MTQ4MGUxNGY2NGExNTlkNTdiMDc5MTQ3MTRjMzAxODc3MDIzNzQ3MTI3OTAxNjE0In0sInNpZ25hdHVyZSI6IiJ9", 
+            "viewer_can_reshare": true, 
+            "viewer_has_liked": false, 
+            "viewer_has_saved": false, 
+            "viewer_has_saved_to_collection": false, 
+            "viewer_in_photo_of_you": false
+          }
+        }
+      }
+    ]
+  }, 
+  "gatekeepers": {
+    "ld": true, 
+    "nt": true, 
+    "phone_qp": true, 
+    "rp": true, 
+    "saa": true, 
+    "seo": true, 
+    "seoht": true, 
+    "sf": true
+  }, 
+  "hostname": "www.instagram.com", 
+  "knobs": {
+    "acct:ntb": 0, 
+    "captcha": 0, 
+    "cb": 0, 
+    "fr": 0
+  }, 
+  "language_code": "en", 
+  "locale": "en_US", 
+  "mid_pct": 40.49274, 
+  "nonce": "kwqcFc++oDA6IvQNKEiTRQ==", 
+  "platform": "web", 
+  "probably_has_app": false, 
+  "qe": {
+    "404_as_react": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_non_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "acc_recovery": {
+      "g": "", 
+      "p": {}
+    }, 
+    "acc_recovery_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "app_upsell": {
+      "g": "test", 
+      "p": {
+        "has_fbc_delay": "true"
+      }
+    }, 
+    "app_upsell_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "appsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bc3l": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bundles": {
+      "g": "", 
+      "p": {}
+    }, 
+    "caching": {
+      "g": "", 
+      "p": {}
+    }, 
+    "collections": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_enhance": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_ta": {
+      "g": "", 
+      "p": {}
+    }, 
+    "cred_man": {
+      "g": "", 
+      "p": {}
+    }, 
+    "direct_conversation_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "disc_ppl": {
+      "g": "", 
+      "p": {}
+    }, 
+    "early_flush": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebd_ul": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "em_sig": {
+      "g": "control_no_dialog", 
+      "p": {
+        "has_multi_step_email_suggestion": "false", 
+        "has_signup_email_suggestion": "false"
+      }
+    }, 
+    "empty_feed": {
+      "g": "", 
+      "p": {}
+    }, 
+    "exit_story_creation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fb_unlink": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_clear_fb_cookie": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_duration_limits": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_enabled": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting_v2": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_validation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_early_onboarding": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_all_fb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_button": {
+      "g": "", 
+      "p": {}
+    }, 
+    "form_navigation_dialog": {
+      "g": "test", 
+      "p": {
+        "show_sign_in_navigation_dialog": "true"
+      }
+    }, 
+    "fsu_count": {
+      "g": "", 
+      "p": {}
+    }, 
+    "gdpr_row_tos": {
+      "g": "control_05_01", 
+      "p": {
+        "tos_version": "row"
+      }
+    }, 
+    "general_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "header_scroll": {
+      "g": "", 
+      "p": {}
+    }, 
+    "heart_tab": {
+      "g": "", 
+      "p": {}
+    }, 
+    "iab": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ig_aat": {
+      "g": "", 
+      "p": {}
+    }, 
+    "igtv_public_viewing": {
+      "g": "", 
+      "p": {}
+    }, 
+    "imgopt": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_direct_upsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_rating": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lo_stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "log_cont": {
+      "g": "", 
+      "p": {}
+    }, 
+    "login_poe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lsc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "mobile_stories_doodling": {
+      "g": "", 
+      "p": {}
+    }, 
+    "msisdn": {
+      "g": "", 
+      "p": {}
+    }, 
+    "multireg_iter": {
+      "g": "has_focus_scroll_10_02", 
+      "p": {
+        "has_focus_scroll": "true"
+      }
+    }, 
+    "mweb_topical_explore": {
+      "g": "", 
+      "p": {}
+    }, 
+    "notif": {
+      "g": "", 
+      "p": {}
+    }, 
+    "onetaplogin": {
+      "g": "", 
+      "p": {}
+    }, 
+    "p_edit": {
+      "g": "", 
+      "p": {}
+    }, 
+    "post_options": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_header_name": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_tabs": {
+      "g": "", 
+      "p": {}
+    }, 
+    "push_notifications": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg_vp": {
+      "g": "test_group_2", 
+      "p": {
+        "hide_value_prop": "true"
+      }
+    }, 
+    "report_media": {
+      "g": "", 
+      "p": {}
+    }, 
+    "report_profile": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "rout": {
+      "g": "", 
+      "p": {}
+    }, 
+    "shfb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "show_copy_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "sidecar_swipe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stale": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su_universe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "tp_pblshr": {
+      "g": "", 
+      "p": {}
+    }, 
+    "unfollow_confirm": {
+      "g": "", 
+      "p": {}
+    }, 
+    "video": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_lo_follow": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_loggedout_noop": {
+      "g": "control", 
+      "p": {
+        "embeds": "false"
+      }
+    }, 
+    "web_nametag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "websr": {
+      "g": "", 
+      "p": {}
+    }
+  }, 
+  "rhx_gis": "896756ea1bf9f5a1cbdbe9a03b450abb", 
+  "rollout_hash": "80d4ae7d75e7", 
+  "server_checks": {}, 
+  "supports_es6": true, 
+  "zero_data": {}
+}

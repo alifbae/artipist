@@ -1,0 +1,1164 @@
+{
+  "bundle_variant": "base", 
+  "config": {
+    "csrf_token": "QNEgZ3v4haFIEjU40awHOSvedeNLGkOm", 
+    "viewer": null, 
+    "viewerId": null
+  }, 
+  "country_code": "PK", 
+  "deployment_stage": "c2", 
+  "entry_data": {
+    "PostPage": [
+      {
+        "graphql": {
+          "shortcode_media": {
+            "__typename": "GraphImage", 
+            "accessibility_caption": null, 
+            "caption_is_edited": false, 
+            "comments_disabled": false, 
+            "dimensions": {
+              "height": 1080, 
+              "width": 1080
+            }, 
+            "display_resources": [
+              {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/ae772038eaa4359f480a5bbf8e1ebbf2/5CAFCE00/t51.2885-15/sh0.08/e35/s640x640/41282271_255580701762779_3277564034274235469_n.jpg"
+              }, 
+              {
+                "config_height": 750, 
+                "config_width": 750, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/6655d2c8ede35b7f7890907c6f1864d8/5CAC6C00/t51.2885-15/sh0.08/e35/s750x750/41282271_255580701762779_3277564034274235469_n.jpg"
+              }, 
+              {
+                "config_height": 1080, 
+                "config_width": 1080, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/6a626172662a67d6485c0f51a09b41fb/5C790AE5/t51.2885-15/e35/41282271_255580701762779_3277564034274235469_n.jpg"
+              }
+            ], 
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/6a626172662a67d6485c0f51a09b41fb/5C790AE5/t51.2885-15/e35/41282271_255580701762779_3277564034274235469_n.jpg", 
+            "edge_media_preview_like": {
+              "count": 1812, 
+              "edges": []
+            }, 
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Islamabad family, if you\u2019ve had a positive experience with a professional therapist who you\u2019d recommend without a doubt, leave their contact info in the comments. And if you\u2019re comfortable, leave also a bit about your positive experience with them. My idea is to create a stream of reliable resources in the comments of these posts so that others in the vicinity may benefit from our collective experience. \nBut I understand the stigmas still surrounding Mental Health so, if you prefer anonymity, you may also send me a DM with your recommendations :)\n\ud83c\udf31\n#ArtidoteLifelines is a new initiative here at The Artidote. It can be difficult finding a therapist \u2014 Where do you start? Who do you trust? My goal is to begin building a database of Mental Health resources in cities all over the world; professional resources that carry The Artidote community\u2019s seal of approval.\n\u2b50\ufe0f\nMy wish is to be able to provide more help with this platform beyond the daily content that I already share. Sometimes I receive messages from individuals that require more support than what I can currently provide through my channels. In these situations, I\u2019d like to have a list of resources that I can refer them to. So I need the entire global community\u2019s support in the coming days, weeks & months as I share posts asking for recommendations for cities across the world.\n\ud83c\udf38\nToday I\u2019m asking anyone in #Islamabad, Pakistan to send in your recommendations based on your personal experience. Any mental health resources in your area will be welcomed and appreciated by us all. \nTHANK YOU\n\u2764\ufe0f\nWe\u2019re all in this together. And together we\u2019ll bloom,\n@jovaferreyra\n\u2014\nphoto by Taimur Dee"
+                  }
+                }
+              ]
+            }, 
+            "edge_media_to_comment": {
+              "count": 58, 
+              "edges": [
+                {
+                  "node": {
+                    "created_at": 1537286205, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17981222719050444", 
+                    "owner": {
+                      "id": "1716275989", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/2ef0306783483ad84d7e2c6ffe948eaf/5C8DB19D/t51.2885-19/s150x150/45592901_2238637696393984_339967921566515200_n.jpg", 
+                      "username": "s.sakinaa"
+                    }, 
+                    "text": "Dr. Tahira, clinic at F-8.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537289385, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17959203787082156", 
+                    "owner": {
+                      "id": "2910404563", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/88ba9dcea3fce26054fb712cd2de7f59/5C987260/t51.2885-19/s150x150/41203430_2044434532534520_3114756776080179200_n.jpg", 
+                      "username": "vgjhcbjfvchjjjkiyfgh"
+                    }, 
+                    "text": "@adilimroz it\u2019s the first one he ever did. Check the hashtag #artidotelifelines .", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537289567, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17889528013257684", 
+                    "owner": {
+                      "id": "4507355846", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/0550af8d8326246bbdee3e07138db57f/5CB1D353/t51.2885-19/s150x150/43309201_582978978839460_7277486899529252864_n.jpg", 
+                      "username": "hareem.bro"
+                    }, 
+                    "text": "Make a post so people could share their experinece with online consuling nd authentics websites.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537290167, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17955288079131486", 
+                    "owner": {
+                      "id": "1560240627", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c1390369e28e9e4931d598f8affe6b2e/5C936F21/t51.2885-19/s150x150/31936262_1531896206932251_5773888294525861888_n.jpg", 
+                      "username": "adilimroz"
+                    }, 
+                    "text": "@introvertedsloth_ oh, okay! I started following him way late. Thanks !", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537290878, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17859348103287685", 
+                    "owner": {
+                      "id": "145436854", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/0fee51d9dcf55841563b991fa230ed54/5C97D96E/t51.2885-19/s150x150/44295146_178112316450655_6895578755461283840_n.jpg", 
+                      "username": "maureenkris"
+                    }, 
+                    "text": "We need this \ud83d\ude2d @suzsuzyzane", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537292887, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17850246544294953", 
+                    "owner": {
+                      "id": "4057029694", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3f101d827218e37bf88e138a4298322f/5CA75279/t51.2885-19/s150x150/27574642_1649033095188426_952574800805494784_n.jpg", 
+                      "username": "ek_camere_ki_kahani"
+                    }, 
+                    "text": "@smehrahmed", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537294284, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17937817891195663", 
+                    "owner": {
+                      "id": "3146131000", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/6b621fb96b62772e56bc5470356c3c22/5CA6223B/t51.2885-19/s150x150/41099472_481373218939821_1555696798822039552_n.jpg", 
+                      "username": "tooobstagram"
+                    }, 
+                    "text": "Aren't you amazing @theartidote ???", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537296356, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17850293353291530", 
+                    "owner": {
+                      "id": "7868049584", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/ac33d7eddbda3b46c81862f9a29940be/5CAAC758/t51.2885-19/s150x150/44752234_306894113253717_6173693438467244032_n.jpg", 
+                      "username": "samanrukhkhan"
+                    }, 
+                    "text": "Muhammad Ali Khan. Clinical Psychologist. Reasonable rates  03214725475", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537298640, 
+                    "edge_liked_by": {
+                      "count": 7
+                    }, 
+                    "id": "17980529140051610", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cDr. Khadija tahir is a psychotherapist based in Islamabad and she specializes in EMDR and CBT. She's not a child specialist and sees patients above the age of 12. She does not specialize in schizophrenia and extreme cases of ocd. She's mainly a trauma therapist. - 03338601512\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537301560, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17908142038236739", 
+                    "owner": {
+                      "id": "4020035030", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/0caf48e7829d19a31f59417646e0146d/5C7B80D0/t51.2885-19/s150x150/44839789_2166724373655505_8767850992306749440_n.jpg", 
+                      "username": "ramshaiftekhar"
+                    }, 
+                    "text": "My elder sister is a very good psychologist", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537304335, 
+                    "edge_liked_by": {
+                      "count": 6
+                    }, 
+                    "id": "17903769631243559", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cEman Niazi \u2014 emanniazi@gmail.com \u2014 Eman Niazi is a psychotherapist based in Islamabad. She has a Masters in Clinical Social Work from New York University, and a Masters in Clinical Psychology from the Punjab University. She is a licensed social worker in the state of New York and has 6 years of experience working in direct mental health services. Her academic specialization focused on contemporary child practice, psychodynamic treatment, attachment theory and mindfulness and emotional regulation in practice. \nShe has completed training in trauma focused cognitive behavioral therapy and trauma focused therapy for childhood traumatic grief; and has also attended a number of professional workshops at the Albert Ellis Institute in New York, and the Metropolitan Institute for Training in Psychoanalytic Psychotherapy in New York. During the course of her professional experience Eman has worked with children, adolescents and adults with a diverse range of diagnoses...", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537304418, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17955708778137597", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "... She has experience in working with at risk populations; adult and child survivors of trauma and abuse; children and adolescents with emotional and behavioral issues; and mood and adjustment disorders.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537323774, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17862718405284096", 
+                    "owner": {
+                      "id": "6923665765", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/563685129e987f04e7d16a77f53f3006/5C751657/t51.2885-19/s150x150/45669238_1241513242655446_7392804422079741952_n.jpg", 
+                      "username": "uswaaay"
+                    }, 
+                    "text": "@noorulain_manzoor786 !", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537324089, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17863236307301180", 
+                    "owner": {
+                      "id": "7518002177", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/7995d1ec79c31e444562a73dc5ac9dda/5C970801/t51.2885-19/s150x150/43408238_186436035605090_862087175682916352_n.jpg", 
+                      "username": "remalthoughts"
+                    }, 
+                    "text": "This is beautiful \ud83c\udf3cCheck out @remalthoughts \ud83c\udf1f for illustration work on \"Problems women face in South Asia.\"", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537344226, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17890852456254496", 
+                    "owner": {
+                      "id": "1498227955", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/270e1ce84eae14c38540c9e1239330e5/5C911875/t51.2885-19/s150x150/41203730_705382856492237_5850709127554138112_n.jpg", 
+                      "username": "abbasmoosvi"
+                    }, 
+                    "text": "@amalwali", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537348715, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17890838134249237", 
+                    "owner": {
+                      "id": "299845736", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/80322457527f46bda3be5f64d05ec79d/5CB05B82/t51.2885-19/s150x150/45345036_2373551752673866_597274589021601792_n.jpg", 
+                      "username": "amalwali"
+                    }, 
+                    "text": "@abbasmoosvi love you jaani, thank you \u2764\u2764\u2764", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537351679, 
+                    "edge_liked_by": {
+                      "count": 6
+                    }, 
+                    "id": "17959560829084230", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cFareed Minhas, psychiatrist. \nI\u2019ve tried almost every other doctor here in Islamabad and I did not like any. They all had the same old lines to say to me which were the least bit effective. However Dr. Fareed was my favorite. He completely understood all I had to say and did not make me feel like I was overreacting. He\u2019s super busy however so time is an issue. \n0515793301 is the number to call to book an appointment.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537357277, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17963344531120805", 
+                    "owner": {
+                      "id": "2030247410", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/1db2f8ae3a9e226b7ffefb977bd990db/5CA9D7AC/t51.2885-19/s150x150/27879186_1995866080732259_3056964164296638464_n.jpg", 
+                      "username": "_dr_zero_"
+                    }, 
+                    "text": "@tanisha_vatsa_  suggest a good therapist", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537358526, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17965641973116026", 
+                    "owner": {
+                      "id": "1652236165", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/8da71fa7a7ec36a3815013b8a93896d8/5C911B65/t51.2885-19/s150x150/44711806_258244668179899_5212713519807463424_n.jpg", 
+                      "username": "i_smallville"
+                    }, 
+                    "text": "why do you ask for a therapist everytime you switch cities?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537358977, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17983020457062441", 
+                    "owner": {
+                      "id": "5838261383", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e5ad978c9eecb13d726a8f20a903a335/5C8D723E/t51.2885-19/s150x150/44199523_2154740097872577_5850430835148193792_n.jpg", 
+                      "username": "thewildmorganism"
+                    }, 
+                    "text": "@i_smallville The caption explains why it\u2019s being asked", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537369117, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17917451893216084", 
+                    "owner": {
+                      "id": "453995270", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/d970a95ffbbec0486c1fa9ea4de93924/5CA5ACB3/t51.2885-19/s150x150/42365685_1016652255171521_780992347683946496_n.jpg", 
+                      "username": "aishahiqbal"
+                    }, 
+                    "text": "I just started following you because of this wonderful service you are providing to people. I don\u2019t have any recommendations but just wanted to say thank you for doing this good work!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537369769, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17907563698231830", 
+                    "owner": {
+                      "id": "577991024", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/088108921d38dcba474f0f3074887b16/5C728419/t51.2885-19/s150x150/44803122_474954699660963_6190521768873033728_n.jpg", 
+                      "username": "minzz.13"
+                    }, 
+                    "text": "@taha14farasat can you share your experience so that the page can recommend?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537369788, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17951307388155674", 
+                    "owner": {
+                      "id": "577991024", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/088108921d38dcba474f0f3074887b16/5C728419/t51.2885-19/s150x150/44803122_474954699660963_6190521768873033728_n.jpg", 
+                      "username": "minzz.13"
+                    }, 
+                    "text": "@mehrubasyed yes Zara Maqbool also works at therapy works.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537378852, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17850486142291112", 
+                    "owner": {
+                      "id": "1576982288", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/2a685008d39ceff96b481772c68ff858/5CA5B8D0/t51.2885-19/s150x150/44869483_303096613874638_4006298661385404416_n.jpg", 
+                      "username": "ahmad.niaaaz"
+                    }, 
+                    "text": "@fahadkhankhattak", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537379033, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17982422773038353", 
+                    "owner": {
+                      "id": "369877526", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/87e42ec379d44d6403f917f8c664aeab/5CAC2BB5/t51.2885-19/s150x150/42905769_1891489937613513_5954627042396864512_n.jpg", 
+                      "username": "mehrubasyed"
+                    }, 
+                    "text": "@theartidote I second Dr. Fareed. First hand experience. He\u2019s great at what he does.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537385698, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17873968741279427", 
+                    "owner": {
+                      "id": "198406429", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/be812f3f99e9676a466ef17650b14c1c/5C7849FE/t51.2885-19/s150x150/31218687_1528793520557342_8822550012161425408_n.jpg", 
+                      "username": "kazimhyder"
+                    }, 
+                    "text": "@mashaallriaz", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537388666, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17951513722182084", 
+                    "owner": {
+                      "id": "3058122787", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/b731e5ff2dfe23a950aec5799e510788/5C8F8CFA/t51.2885-19/s150x150/45616344_497343394108033_465502806241968128_n.jpg", 
+                      "username": "betittaaaa"
+                    }, 
+                    "text": "@pizzaarizza ????????", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537390800, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17951811610146015", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "@aishahiqbal much love \ud83c\udf38\ud83c\udf38\ud83c\udf38", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537409564, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17952902986145926", 
+                    "owner": {
+                      "id": "385080971", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/2265a44295fd6c069f250494044a4ba5/5C8F729D/t51.2885-19/s150x150/44619030_569120620215172_4923023185487593472_n.jpg", 
+                      "username": "pizzaarizza"
+                    }, 
+                    "text": "@betittaaaa Lol", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537438228, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17918285698222803", 
+                    "owner": {
+                      "id": "304759336", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/bfac576c1cfc1637e069e794731ccd43/5C96AADE/t51.2885-19/s150x150/44898764_245794386088917_5929811399965409280_n.jpg", 
+                      "username": "mahnoornh"
+                    }, 
+                    "text": "@zizou_ten", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537442937, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17979788260041020", 
+                    "owner": {
+                      "id": "4237675069", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/47ec49844a2aee261a18b2de182ff067/5C73C193/t51.2885-19/s150x150/38849609_474324336372835_2197344842462265344_n.jpg", 
+                      "username": "zizou_ten"
+                    }, 
+                    "text": "Dr. Yousuf Raza is your go-to man if you  need help. I'm sure there are other very professional psychiatrists too, but it's hard to believe there can be anyone better than him. He saved my life, there is no other way in which to put this. The way he so open mindedly communicates and how he listens is unparalleled. I knew he was the one to go to for help because I have been attending his seminars and talks which are conducted all over the twin cities on topics that require much needed attention. Despite that, it's hard to get yourself to open up, I get that. So before you book an appointment, you might just want to attend a seminar to see the way he communicates, that will be of great help. Just months ago I wasn't able to eat for 20 hours at a stretch yet kept vomiting during panic attacks. I felt the worst kind of purposeless-ness deeply rooted inside me and my mind was clogged. I have come a long, long way from there. I found my purpose, and I'm more productive than ever. I wish each and every one of you peace of mind, heart and soul. Whether you see Dr. Yousuf or not, I hope you get the right help, whatever works for you. It's the hardest battle to fight, but it's temporary. Once fought rightly, you'll feel invincible having made it to the other side. All said, I'm still recovering, but definitely heading in the right direction. God be with us all. \nContact Dr. Yousuf on: 03313456723\nFor details on his upcoming seminars 1) Suffering with a smile and 2) Love unplugged visit the facebook page: http://www.thealchemists.pk/\n\nDr. Yousuf is available at Medicsi in Civic Centre, Phase 4, Bahria Town Islamabad for around 3 or 4 days a week and see's his clients at home as well in DHA2.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537442958, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17981337922046280", 
+                    "owner": {
+                      "id": "4237675069", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/47ec49844a2aee261a18b2de182ff067/5C73C193/t51.2885-19/s150x150/38849609_474324336372835_2197344842462265344_n.jpg", 
+                      "username": "zizou_ten"
+                    }, 
+                    "text": "@mahnoornh Thank you so much for tagging me here.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537442970, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17908007041230126", 
+                    "owner": {
+                      "id": "4237675069", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/47ec49844a2aee261a18b2de182ff067/5C73C193/t51.2885-19/s150x150/38849609_474324336372835_2197344842462265344_n.jpg", 
+                      "username": "zizou_ten"
+                    }, 
+                    "text": "@mahnoornh Thank you so much for tagging me here.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537451492, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17891268640259672", 
+                    "owner": {
+                      "id": "628257272", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/1e43e6538af1024d9eb7317bec1c0ad0/5C729F98/t51.2885-19/s150x150/21909327_119057988793353_1584466675909001216_n.jpg", 
+                      "username": "suzsuzyzane"
+                    }, 
+                    "text": "@maureenkris omg yes \ud83d\ude2d\ud83d\ude2d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537469922, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17983166947031956", 
+                    "owner": {
+                      "id": "304759336", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/bfac576c1cfc1637e069e794731ccd43/5C96AADE/t51.2885-19/s150x150/44898764_245794386088917_5929811399965409280_n.jpg", 
+                      "username": "mahnoornh"
+                    }, 
+                    "text": "@zizou_ten \ud83e\udd17", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537661525, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17920390492214681", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cI wanted to share my experience regarding Dr Zara Maqbool. I reside in Lahore and i have Skype sessions with her every week with a few in person when in town. Shes very good at making her client comfortable in opening up their brain up, and making them feel safe about their fears. Shes wonderful at what she does. || Zara Maqbool, based in Islamabad, \u202d+92 321 8477429\u202c \u201c", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1540764098, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17992161205038402", 
+                    "owner": {
+                      "id": "617720488", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/26734eac6f494c957be34886dc255859/5C8CF62B/t51.2885-19/s150x150/38027203_2035555203130575_8628850238402068480_n.jpg", 
+                      "username": "isransari"
+                    }, 
+                    "text": "@mehruniazi", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542576847, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "18003128290031051", 
+                    "owner": {
+                      "id": "2101323413", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/40f8c61a07178bc8dbb2ab1281fac015/5C94CF80/t51.2885-19/s150x150/44513612_371716550240595_3688630141300244480_n.jpg", 
+                      "username": "amna.__.amjad"
+                    }, 
+                    "text": "@zizou_ten does he have a Facebook page ?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542624615, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "18001755271000442", 
+                    "owner": {
+                      "id": "4237675069", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/47ec49844a2aee261a18b2de182ff067/5C73C193/t51.2885-19/s150x150/38849609_474324336372835_2197344842462265344_n.jpg", 
+                      "username": "zizou_ten"
+                    }, 
+                    "text": "@amna.__.amjad Yes, here's the link: https://m.facebook.com/DrYousufRaza/", 
+                    "viewer_has_liked": false
+                  }
+                }
+              ], 
+              "page_info": {
+                "end_cursor": "QVFESFhaT2RRSnA4endkeDdfcS1lOGVQNUl5SXA1WFRsVW5Qdk51TTFWYUNJdERWY0EtV25kSkNkbWNQd0NFelk4bVZLNW50VGxZNXZQQUU0R1ZYM2hUWQ==", 
+                "has_next_page": true
+              }
+            }, 
+            "edge_media_to_sponsor_user": {
+              "edges": []
+            }, 
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }, 
+            "edge_web_media_to_related_media": {
+              "edges": []
+            }, 
+            "gating_info": null, 
+            "has_ranked_comments": false, 
+            "id": "1871166108158584034", 
+            "is_ad": false, 
+            "is_video": false, 
+            "location": null, 
+            "media_preview": "ACoqYm4cfKfwqUyjHQZ9R/8Arq9EkDqDwOCeSAePX+lSGGA88Acdx7f40N3CxnZVxwMH6Zpp57MPwAq+sUBOQSOn8QHXP+H6inlYAOo4PXcOuQB39+tK7HYzgy5xnn6Z/T9aj80Dj/4mtYpBnBwcdfmHofz6YrJ82D+5+tQ79hlBm355+lNBZDxkirKpnnK/QsBU+1PRf+/g/wAKAKZbcPSoip6jA9q0Nq+g/wC/gpdi+g/7+D8v/wBdAXM/y1xljz7ZqPcPVv8AP41otH3BUD/eBqDNAhVlZRgYx7gH+Ypxnb2/75H+FQUUhk3nN7f98j/Cjzm9v++R/hUNFAE3ntz056/KP8KizSUUgP/Z", 
+            "owner": {
+              "blocked_by_viewer": false, 
+              "followed_by_viewer": false, 
+              "full_name": "the artidote", 
+              "has_blocked_viewer": false, 
+              "id": "560672181", 
+              "is_private": false, 
+              "is_unpublished": false, 
+              "is_verified": true, 
+              "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+              "requested_by_viewer": false, 
+              "username": "theartidote"
+            }, 
+            "shortcode": "Bn3t6lYiuTi", 
+            "should_log_client_event": false, 
+            "taken_at_timestamp": 1537280404, 
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYmU4Njc4MjQ3MmNmNDk3Njk2YmRmZWU4NTA4NmFlNTAxODcxMTY2MTA4MTU4NTg0MDM0In0sInNpZ25hdHVyZSI6IiJ9", 
+            "viewer_can_reshare": true, 
+            "viewer_has_liked": false, 
+            "viewer_has_saved": false, 
+            "viewer_has_saved_to_collection": false, 
+            "viewer_in_photo_of_you": false
+          }
+        }
+      }
+    ]
+  }, 
+  "gatekeepers": {
+    "ld": true, 
+    "nt": true, 
+    "phone_qp": true, 
+    "rp": true, 
+    "saa": true, 
+    "seo": true, 
+    "seoht": true, 
+    "sf": true
+  }, 
+  "hostname": "www.instagram.com", 
+  "knobs": {
+    "acct:ntb": 0, 
+    "captcha": 0, 
+    "cb": 0, 
+    "fr": 0
+  }, 
+  "language_code": "en", 
+  "locale": "en_US", 
+  "mid_pct": 96.98371, 
+  "nonce": "pth+1viqedFA7S+TGU6ETg==", 
+  "platform": "web", 
+  "probably_has_app": false, 
+  "qe": {
+    "404_as_react": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_non_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "acc_recovery": {
+      "g": "test", 
+      "p": {
+        "has_account_recovery_redesign": "true"
+      }
+    }, 
+    "acc_recovery_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "app_upsell": {
+      "g": "test", 
+      "p": {
+        "has_fbc_delay": "true"
+      }
+    }, 
+    "app_upsell_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "appsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bc3l": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bundles": {
+      "g": "", 
+      "p": {}
+    }, 
+    "caching": {
+      "g": "", 
+      "p": {}
+    }, 
+    "collections": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_enhance": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_ta": {
+      "g": "", 
+      "p": {}
+    }, 
+    "cred_man": {
+      "g": "", 
+      "p": {}
+    }, 
+    "direct_conversation_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "disc_ppl": {
+      "g": "", 
+      "p": {}
+    }, 
+    "early_flush": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebd_ul": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "em_sig": {
+      "g": "test_w_sug_d", 
+      "p": {
+        "has_multi_step_email_suggestion": "false", 
+        "has_signup_email_suggestion": "true"
+      }
+    }, 
+    "empty_feed": {
+      "g": "", 
+      "p": {}
+    }, 
+    "exit_story_creation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fb_unlink": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_clear_fb_cookie": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_duration_limits": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_enabled": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting_v2": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_validation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_early_onboarding": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_all_fb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_button": {
+      "g": "", 
+      "p": {}
+    }, 
+    "form_navigation_dialog": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fsu_count": {
+      "g": "", 
+      "p": {}
+    }, 
+    "gdpr_row_tos": {
+      "g": "control_05_01", 
+      "p": {
+        "tos_version": "row"
+      }
+    }, 
+    "general_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "header_scroll": {
+      "g": "", 
+      "p": {}
+    }, 
+    "heart_tab": {
+      "g": "", 
+      "p": {}
+    }, 
+    "iab": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ig_aat": {
+      "g": "", 
+      "p": {}
+    }, 
+    "igtv_public_viewing": {
+      "g": "", 
+      "p": {}
+    }, 
+    "imgopt": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_direct_upsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_rating": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lo_stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "log_cont": {
+      "g": "test_intent_1", 
+      "p": {
+        "has_contextual": "true"
+      }
+    }, 
+    "login_poe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lsc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "mobile_stories_doodling": {
+      "g": "", 
+      "p": {}
+    }, 
+    "msisdn": {
+      "g": "", 
+      "p": {}
+    }, 
+    "multireg_iter": {
+      "g": "control_10_18", 
+      "p": {
+        "has_prioritized_phone": "false"
+      }
+    }, 
+    "mweb_topical_explore": {
+      "g": "", 
+      "p": {}
+    }, 
+    "notif": {
+      "g": "", 
+      "p": {}
+    }, 
+    "onetaplogin": {
+      "g": "control", 
+      "p": {
+        "after_login": "true", 
+        "storage_version": "one_tap_storage_version"
+      }
+    }, 
+    "p_edit": {
+      "g": "", 
+      "p": {}
+    }, 
+    "post_options": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_header_name": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_tabs": {
+      "g": "", 
+      "p": {}
+    }, 
+    "push_notifications": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg_vp": {
+      "g": "", 
+      "p": {}
+    }, 
+    "report_media": {
+      "g": "", 
+      "p": {}
+    }, 
+    "report_profile": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "rout": {
+      "g": "", 
+      "p": {}
+    }, 
+    "shfb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "show_copy_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "sidecar_swipe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stale": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su_universe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "tp_pblshr": {
+      "g": "", 
+      "p": {}
+    }, 
+    "unfollow_confirm": {
+      "g": "", 
+      "p": {}
+    }, 
+    "video": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_lo_follow": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_loggedout_noop": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_nametag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "websr": {
+      "g": "", 
+      "p": {}
+    }
+  }, 
+  "rhx_gis": "896756ea1bf9f5a1cbdbe9a03b450abb", 
+  "rollout_hash": "80d4ae7d75e7", 
+  "server_checks": {}, 
+  "supports_es6": true, 
+  "zero_data": {}
+}

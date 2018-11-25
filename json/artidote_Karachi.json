@@ -1,0 +1,1182 @@
+{
+  "bundle_variant": "base", 
+  "config": {
+    "csrf_token": "0bhL8rv8P9OniDKaSBrjiZdqt1lIFDeB", 
+    "viewer": null, 
+    "viewerId": null
+  }, 
+  "country_code": "PK", 
+  "deployment_stage": "c2", 
+  "entry_data": {
+    "PostPage": [
+      {
+        "graphql": {
+          "shortcode_media": {
+            "__typename": "GraphImage", 
+            "accessibility_caption": null, 
+            "caption_is_edited": true, 
+            "comments_disabled": false, 
+            "dimensions": {
+              "height": 750, 
+              "width": 750
+            }, 
+            "display_resources": [
+              {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c717a559ed7608c4b5f4516e7a19154a/5CAA1E54/t51.2885-15/sh0.08/e35/s640x640/39232795_230745720925956_5051328053486026752_n.jpg"
+              }, 
+              {
+                "config_height": 750, 
+                "config_width": 750, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/ca94280986b06c46123c9411842f2a04/5CAE45B1/t51.2885-15/e35/39232795_230745720925956_5051328053486026752_n.jpg"
+              }, 
+              {
+                "config_height": 1080, 
+                "config_width": 1080, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/ca94280986b06c46123c9411842f2a04/5CAE45B1/t51.2885-15/e35/39232795_230745720925956_5051328053486026752_n.jpg"
+              }
+            ], 
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/ca94280986b06c46123c9411842f2a04/5CAE45B1/t51.2885-15/e35/39232795_230745720925956_5051328053486026752_n.jpg", 
+            "edge_media_preview_like": {
+              "count": 3143, 
+              "edges": []
+            }, 
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Karachi family, if you\u2019ve had a positive experience with a therapist who you\u2019d recommend without a doubt, leave their contact info in the comments. If you\u2019re comfortable, leave also a bit about your positive experience with them. My idea is to create a stream of reliable resources in the comments of these posts so that others in the vicinity may benefit from our collective experience. \nBut I understand the stigmas still surrounding Mental Health so, if you prefer privacy, you may also send me a DM with your recommendations :)\n\ud83c\udf31\n#ArtidoteLifelines is a new initiative I\u2019m launching at The Artidote. \nIt can be difficult finding a therapist \u2014 Where do you start? Who do you trust? My goal is to begin building a database of Mental Health resources in cities all over the world; professional resources that carry The Artidote community\u2019s seal of approval.\n\u2b50\ufe0f\nMy wish is to be able to provide more help with this platform beyond the daily content I already share. Because sometimes I receive messages from individuals that require more support than what I can provide through my channels. In these situations, I\u2019d like to have a list of resources that I can refer them to. So I need the entire global community\u2019s support in the coming days, weeks & months as I share posts asking for recommendations for cities across the globe.\n\ud83c\udf38\nToday I\u2019m asking anyone in #Karachi, Pakistan to send in their recommendations based on their personal experience. \nTHANK YOU\n\u2764\ufe0f\nWe\u2019re all in this together, \n@jovaferreyra\n\u2022\nPhoto by @mystapaki"
+                  }
+                }
+              ]
+            }, 
+            "edge_media_to_comment": {
+              "count": 107, 
+              "edges": [
+                {
+                  "node": {
+                    "created_at": 1535308721, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17973488968043653", 
+                    "owner": {
+                      "id": "3160889110", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/b424eb499808a6322a08839669aa881f/5CA5AC33/t51.2885-19/s150x150/28435861_547490375622978_5614900326193692672_n.jpg", 
+                      "username": "baroem"
+                    }, 
+                    "text": "\ud83d\ude4f\ud83c\udffd", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535309246, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17944036339176403", 
+                    "owner": {
+                      "id": "2038094259", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/92cc7cd17dea8862077f76734cd62b43/5CAF9FEE/t51.2885-19/s150x150/44000148_262525017799010_3001934603758862336_n.jpg", 
+                      "username": "ramshashafiq"
+                    }, 
+                    "text": "@theartidote On-line therapist who is from Lahore her fb page is by name Better life psychological services,  gives online sessions her name Dr.TEHMINA YASIT", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535313507, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17968200571067189", 
+                    "owner": {
+                      "id": "277402370", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/d9732ec3d3527b76f15098d708bacf6f/5C8B20B4/t51.2885-19/s150x150/23164121_1507479636002974_7821089829168349184_n.jpg", 
+                      "username": "alyssatstark"
+                    }, 
+                    "text": "@farah_jahanzeb", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535314591, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17949315574142006", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Anonymous recommendation: \u201cCould you add my recommendation anonymously please? Samia Chundrigar is my current therapist and an excellent one at that. Her contact details can be found at counseling.pk/therapists/samia-chundrigar\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535314814, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17866432339277842", 
+                    "owner": {
+                      "id": "1520794307", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/be2d5be8ea4d2680c22814df470996f1/5CA8A2A9/t51.2885-19/s150x150/39954411_1709247055853450_7783396410199638016_n.jpg", 
+                      "username": "sameen.faruqi"
+                    }, 
+                    "text": "@bilal_writes", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535315412, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17947571692186115", 
+                    "owner": {
+                      "id": "2620851056", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a24ab6958858f333e41b35cd1cec3936/5C771C0E/t51.2885-19/s150x150/43914789_571524326615620_242490048191135744_n.jpg", 
+                      "username": "arshiazehra"
+                    }, 
+                    "text": "@marium.farrukh same!! i can ask around. a lot of my friends go to therapists.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535315607, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17952849808091341", 
+                    "owner": {
+                      "id": "2620851056", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a24ab6958858f333e41b35cd1cec3936/5C771C0E/t51.2885-19/s150x150/43914789_571524326615620_242490048191135744_n.jpg", 
+                      "username": "arshiazehra"
+                    }, 
+                    "text": "@bilal_writes", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535317717, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17957699296120629", 
+                    "owner": {
+                      "id": "1341421022", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/7d36415e1db7cf1b5db40ed2d3d0adc0/5CA5E6B2/t51.2885-19/s150x150/40722704_229782191218964_3637301549786464256_n.jpg", 
+                      "username": "bilal_writes"
+                    }, 
+                    "text": "Love the initiative. There are amazing therapists at umeed e nau, bahria university. I go to one there and I\u2019ve had a helpful experience. They\u2019re pretty cheap too. Anyone who needs further details or has questions can message me \u2665\ufe0f", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535317894, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17932479751195824", 
+                    "owner": {
+                      "id": "1834288629", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c37b61536643fb949355f9ab1b330219/5CB20B3B/t51.2885-19/s150x150/43985312_1098764866958592_478957113419235328_n.jpg", 
+                      "username": "tulana.nayak"
+                    }, 
+                    "text": "This is an amazing initiative. More love and power to you, Jova \ud83d\ude07", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535341473, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17939025898175243", 
+                    "owner": {
+                      "id": "3642807304", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/197fcd33c76b19ed336f77fc08aeebe5/5C936972/t51.2885-19/s150x150/30086658_355048851668880_8317591746552791040_n.jpg", 
+                      "username": "ahmedzkhan"
+                    }, 
+                    "text": "Dr. Shehla Alavi", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535341586, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17882242252261411", 
+                    "owner": {
+                      "id": "1775275016", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a2503dd83822ca2910431f194d631d48/5C7A6F6C/t51.2885-19/s150x150/13534441_127746090987288_890883697_a.jpg", 
+                      "username": "ale_jafri"
+                    }, 
+                    "text": "@theartidote great job! \u2764\ufe0f\nMay you succeed in this! Amen!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535351669, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17973195979031020", 
+                    "owner": {
+                      "id": "3257152047", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/2656667f26974a572c0191194b823a84/5CA91BA8/t51.2885-19/s150x150/13267449_1722597811322293_1411631801_a.jpg", 
+                      "username": "rumwaransha"
+                    }, 
+                    "text": "@unzila.bilal @umratkhan", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535358476, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17875117114267813", 
+                    "owner": {
+                      "id": "3252119816", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3ebc66296affbd4fbb017ba0c55b40fd/5CAF1C4F/t51.2885-19/s150x150/39238019_2024624730894405_3996258943402770432_n.jpg", 
+                      "username": "marium.farrukh"
+                    }, 
+                    "text": "@arshiazehra yes please. Mention it in the comments", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535373162, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17931620161199551", 
+                    "owner": {
+                      "id": "718001144", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/9f174fe08f6c3a77e62074cf47f4825a/5C8B7670/t51.2885-19/11848824_1032336030117487_1739928395_a.jpg", 
+                      "username": "mindoccupied"
+                    }, 
+                    "text": "This is an incredible thing you're doing. :) I hope it enables someone to get the support they need.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535374250, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17910935617222712", 
+                    "owner": {
+                      "id": "1554883126", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/686d7121ea0098a3b80bab84a87ca5e5/5CB0922B/t51.2885-19/s150x150/16583759_152298821943695_2946565233998561280_a.jpg", 
+                      "username": "unzila.bilal"
+                    }, 
+                    "text": "@rumwaransha omg following this thread, thanks g", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535377666, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17900684443233479", 
+                    "owner": {
+                      "id": "279811676", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/d62ee1cd9bc1ae904fc124a8fd3063eb/5C7485E9/t51.2885-19/s150x150/46087453_1117871498387094_3011210028016205824_n.jpg", 
+                      "username": "filzahjamal"
+                    }, 
+                    "text": "@yumxnn @worthlost @bilboobx", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535379347, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17900438215238138", 
+                    "owner": {
+                      "id": "12972341", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/8630b2badef7ee3e31dede47314f08c9/5CACA34D/t51.2885-19/s150x150/36530394_201513283895580_8123802379775639552_n.jpg", 
+                      "username": "worthlost"
+                    }, 
+                    "text": "@mariahusain_ag ooh I'd like to add onto this!! Dr. Nargis Asad at the Aga Khan University Hospital is incredibly friendly, understanding and supportive as a therapist. She's extremely skilled and has a lot of experience making her helpful to work with. She helped change my life for the better!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535379570, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17855250130280971", 
+                    "owner": {
+                      "id": "12972341", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/8630b2badef7ee3e31dede47314f08c9/5CACA34D/t51.2885-19/s150x150/36530394_201513283895580_8123802379775639552_n.jpg", 
+                      "username": "worthlost"
+                    }, 
+                    "text": "@filzahjamal thank you bby", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535381185, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17938846246172719", 
+                    "owner": {
+                      "id": "1076876810", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/b2bc25f6fb36ca843f81228e55e912a3/5CADB739/t51.2885-19/s150x150/36536262_439554709853002_4927169508260446208_n.jpg", 
+                      "username": "amnalodhii"
+                    }, 
+                    "text": "@dr.moizhussain Is the best.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535387434, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17974478068004335", 
+                    "owner": {
+                      "id": "2967392061", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c56d552a2173b933f265ec0573ca36af/5C93E4E1/t51.2885-19/s150x150/43486884_286730968836230_1601796791638949888_n.jpg", 
+                      "username": "ayeshbyesh"
+                    }, 
+                    "text": "This is such a wonderful initiative. It is also so lovely to see so many Pakistanis advocating for mental health support \ud83d\ude4c. As a psychologist from Pakistan (living abroad right now) this makes me so happy.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535402700, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17973600610037523", 
+                    "owner": {
+                      "id": "267605071", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/5db646192044a97a4e743bc602a42ddd/5C76E8FB/t51.2885-19/s150x150/37991736_257868151707902_1779199148784877568_n.jpg", 
+                      "username": "yumxnn"
+                    }, 
+                    "text": "@filzahjamal \ud83d\udc99\ud83d\udc99\ud83d\udc99", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535419386, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17896272484243582", 
+                    "owner": {
+                      "id": "2967392061", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c56d552a2173b933f265ec0573ca36af/5C93E4E1/t51.2885-19/s150x150/43486884_286730968836230_1601796791638949888_n.jpg", 
+                      "username": "ayeshbyesh"
+                    }, 
+                    "text": "@theartidote", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535442443, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17942797066165237", 
+                    "owner": {
+                      "id": "1501954002", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/d385c70eb90b7633c1113a89f2e92fb5/5C95F656/t51.2885-19/s150x150/31364173_262569707619179_6611369203138035712_n.jpg", 
+                      "username": "rekvijem"
+                    }, 
+                    "text": "could you do this for belgrade or novi sad in the future? i've heard many stories about bad experiences with therapists in serbia and knowing about some of the good ones would help~", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535446306, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17946010105180631", 
+                    "owner": {
+                      "id": "4507355846", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/0550af8d8326246bbdee3e07138db57f/5CB1D353/t51.2885-19/s150x150/43309201_582978978839460_7277486899529252864_n.jpg", 
+                      "username": "hareem.bro"
+                    }, 
+                    "text": "Please please do a thread for online consuling as well. there are many websited offering such services. i think it'd would generally help people to know they must get help.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535447204, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17972998135058724", 
+                    "owner": {
+                      "id": "460019041", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/ee07b959ee76c667d969a73d311c76f6/5CAE8419/t51.2885-19/s150x150/45451056_264887510859535_7087960137469526016_n.jpg", 
+                      "username": "elly_8th"
+                    }, 
+                    "text": "Wonderful initiative! I love seeing support for humans here and around community making world a better place to live in \u2764\ud83c\udf0e", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535486323, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17912159044220807", 
+                    "owner": {
+                      "id": "1087936985", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3c2673187c92063bf5bdb5ef4edccb28/5C8D1D51/t51.2885-19/s150x150/40643773_238386923513266_2178763250571673600_n.jpg", 
+                      "username": "furvasv"
+                    }, 
+                    "text": "@dabbas991 look at this!! Amazing initiative!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535518864, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17953095916091425", 
+                    "owner": {
+                      "id": "481766131", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/11a4e8967bf39e1b002ad874af39f80a/5CAC448C/t51.2885-19/s150x150/25022147_522701668122875_2214609859372908544_n.jpg", 
+                      "username": "dabbas991"
+                    }, 
+                    "text": "@furvasv I wish to see my name like this some day INSHAALLAH", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535572846, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17856010414281583", 
+                    "owner": {
+                      "id": "1352889501", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/4db082da2727893442dd3e2a45dff057/5CACADDC/t51.2885-19/s150x150/30593461_388024205046364_2731423883985944576_n.jpg", 
+                      "username": "bilboobx"
+                    }, 
+                    "text": "@filzahjamal thanks bb \ud83d\udc95", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535579502, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17883496645259928", 
+                    "owner": {
+                      "id": "1087936985", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3c2673187c92063bf5bdb5ef4edccb28/5C8D1D51/t51.2885-19/s150x150/40643773_238386923513266_2178763250571673600_n.jpg", 
+                      "username": "furvasv"
+                    }, 
+                    "text": "@theartidote please check relivenow.org they have really good therapists and offer online sessions.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535808898, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17949338761184744", 
+                    "owner": {
+                      "id": "1617144877", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/28480700b412443c7fb4f136ed7241d8/5C73ABBD/t51.2885-19/s150x150/36086536_1728346710606390_6085630446937309184_n.jpg", 
+                      "username": "missmxlihah"
+                    }, 
+                    "text": "The Health Act (Near Khadda Market) has 3 therapists (that I know of, 2 of whom I have personal experience with) who are excellent. One of them is Nida Khan. If you call them, they'll be able to guide you", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1536011077, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17947200781144353", 
+                    "owner": {
+                      "id": "344270847", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/db058a2187a5180c7252293296cefbd2/5CAB10DD/t51.2885-19/s150x150/43985246_2191964674349452_718129956504207360_n.jpg", 
+                      "username": "subboh_"
+                    }, 
+                    "text": "@theorganiccynic you can't go to her as a patient, it's illegal.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1536013619, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17903152486237052", 
+                    "owner": {
+                      "id": "1662942651", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f2451aef957dc956fabb21f54f53dd5f/5CB01508/t51.2885-19/s150x150/18723060_191015284755119_4173191929342722048_a.jpg", 
+                      "username": "theorganiccynic"
+                    }, 
+                    "text": "@subboh_ watch me.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1536207328, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17976481342022263", 
+                    "owner": {
+                      "id": "1036542256", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/813b1b1210829a792db301b2099ac3bd/5C8EAEFB/t51.2885-19/s150x150/39917665_186688932124018_8110854608156360704_n.jpg", 
+                      "username": "meshalsattar"
+                    }, 
+                    "text": "@mystapaki you've been tagged?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1536607394, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17977600867006228", 
+                    "owner": {
+                      "id": "2302681277", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/fb63c96a32b7bdc42b68d46c52df4660/5CAA6A59/t51.2885-19/s150x150/44567278_250443955631335_5755478595816390656_n.jpg", 
+                      "username": "rapid_reader"
+                    }, 
+                    "text": "@sumaicaasad", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537658164, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17946951010175494", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cHi. A good therapist from Karachi is Dr Shameel Khan. He's a licensed psychiatrist as well as a psychotherapist. He sits at the Aga Khan University Hospital (at Rashid Minhas Road). There's also a Clifton Campus of the hospital and sits there as well.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1537701048, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17975580577074538", 
+                    "owner": {
+                      "id": "8194986063", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/d4932178d4e526858297f3f9de702563/5C90E527/t51.2885-19/s150x150/39963266_520830921702178_5048307321382371328_n.jpg", 
+                      "username": "tf.psych"
+                    }, 
+                    "text": "I'm a psychologist based in Karachi. Please reach out", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1538044460, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17956333843184156", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Submitted recommendation: \u201cDr Saiqa Khan who is a clinical psychologist at the Agha Khan and the Hilal e Ahmer is one of the best psychologists in town. Reasonable, mature, sensible, gives you a good boot when needed and is equally compassionate and understands you very fast. Unreasonable requests and things she knows are against your personality type is not suggested. She is actually really helpful and sensible. Please recommend her to whoever needs this. Her hours make her hard to get because she\u2019s also a researcher but this is her secretary\u2019s number: \u202d0300 2553359\u202c.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542489342, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17985705094104108", 
+                    "owner": {
+                      "id": "9206236119", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/9b8850a068c12be15a0f7f8e11001c13/5C90AD61/t51.2885-19/s150x150/45553755_1181652718642069_2070761315751690240_n.jpg", 
+                      "username": "fitefright"
+                    }, 
+                    "text": "@hassanzulfiqar", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1543090526, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17929568236225180", 
+                    "owner": {
+                      "id": "1492611678", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/2ce27813b40853d1a07c163b1e237907/5C902852/t51.2885-19/s150x150/37604351_183739299166910_7585815231545212928_n.jpg", 
+                      "username": "uroojoyo"
+                    }, 
+                    "text": "@arishakhatri we need this.\ud83d\ude02", 
+                    "viewer_has_liked": false
+                  }
+                }
+              ], 
+              "page_info": {
+                "end_cursor": "QVFDalo4b2gzYVhBZktjZnRXQ1JJRlNRWEdjMDk1NlVCbklYd1dWNkpXN09ncGxlRXhKOU1mTkViNWZWWV9SNDFTOEd3WDdlSE1NOWFDX2VhNU94N3BWdg==", 
+                "has_next_page": true
+              }
+            }, 
+            "edge_media_to_sponsor_user": {
+              "edges": []
+            }, 
+            "edge_media_to_tagged_user": {
+              "edges": [
+                {
+                  "node": {
+                    "user": {
+                      "full_name": "Bilal Hassan | \u0628\u0644\u0627\u0644 \u062d\u0633\u0646  \ud83c\uddf5\ud83c\uddf0", 
+                      "id": "200554703", 
+                      "is_verified": false, 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/205cd0b661deb28797c6dab2abab90eb/5CABD4F9/t51.2885-19/s150x150/15046930_553650288161374_8720041619685900288_a.jpg", 
+                      "username": "mystapaki"
+                    }, 
+                    "x": 0.8773333333, 
+                    "y": 0.4306666667
+                  }
+                }
+              ]
+            }, 
+            "edge_web_media_to_related_media": {
+              "edges": []
+            }, 
+            "gating_info": null, 
+            "has_ranked_comments": false, 
+            "id": "1854275984388558931", 
+            "is_ad": false, 
+            "is_video": false, 
+            "location": null, 
+            "media_preview": "ACoqvefSfaBSiVRGIwCHweinjnOMDsfbp0qXzUG0nI2dOOSNpHTGRzzz60w+RELnj/HH/wCunfaDjPGPpTxOgO7k5Cjpk475J61H9oTGFYgAYxtPPPXnj+vpQL5EqTblLHjHA471AZ+eh/I1Ms8ZJI/ibjqc/KR36HnpWaZFz9/H40rpDQ1Xfy9mDu654PQ/yxxQGkA6lsjB6D/P50K5B4JH09Kn8z/bb/vnvUWKuxm1AxwD0+Xrwccfr3qEEsuHDH1w3GasiT0dsf7v/wBejzOuXYe23/PpRYLlWRMcIDjHc9D6dqq+S3ofzH+NaErlu5Ye4xzUWaYhYnC5+YrnHQZqXzu/mEeny/5xVOikBc87I++fpto87/po3txVOigC08m5eXJPXGOP8iq+abRQB//Z", 
+            "owner": {
+              "blocked_by_viewer": false, 
+              "followed_by_viewer": false, 
+              "full_name": "the artidote", 
+              "has_blocked_viewer": false, 
+              "id": "560672181", 
+              "is_private": false, 
+              "is_unpublished": false, 
+              "is_verified": true, 
+              "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+              "requested_by_viewer": false, 
+              "username": "theartidote"
+            }, 
+            "shortcode": "Bm7ti71BJBT", 
+            "should_log_client_event": false, 
+            "taken_at_timestamp": 1535266944, 
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNzQ3OGNhZjk0MGE4NDQyNGI5MDMwNTdkYTUxMWQwYWQxODU0Mjc1OTg0Mzg4NTU4OTMxIn0sInNpZ25hdHVyZSI6IiJ9", 
+            "viewer_can_reshare": true, 
+            "viewer_has_liked": false, 
+            "viewer_has_saved": false, 
+            "viewer_has_saved_to_collection": false, 
+            "viewer_in_photo_of_you": false
+          }
+        }
+      }
+    ]
+  }, 
+  "gatekeepers": {
+    "ld": true, 
+    "nt": true, 
+    "phone_qp": true, 
+    "rp": true, 
+    "saa": true, 
+    "seo": true, 
+    "seoht": true, 
+    "sf": true
+  }, 
+  "hostname": "www.instagram.com", 
+  "knobs": {
+    "acct:ntb": 0, 
+    "captcha": 0, 
+    "cb": 0, 
+    "fr": 0
+  }, 
+  "language_code": "en", 
+  "locale": "en_US", 
+  "mid_pct": 79.95747, 
+  "nonce": "b+VymGaSgmuSQ5QGcFeCvA==", 
+  "platform": "web", 
+  "probably_has_app": false, 
+  "qe": {
+    "404_as_react": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_non_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "acc_recovery": {
+      "g": "test", 
+      "p": {
+        "has_account_recovery_redesign": "true"
+      }
+    }, 
+    "acc_recovery_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "app_upsell": {
+      "g": "test_app_upsell_sheet", 
+      "p": {
+        "has_new_app_upsell_sheet": "true", 
+        "has_new_half_sheet": "false"
+      }
+    }, 
+    "app_upsell_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "appsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bc3l": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bundles": {
+      "g": "", 
+      "p": {}
+    }, 
+    "caching": {
+      "g": "", 
+      "p": {}
+    }, 
+    "collections": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_enhance": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_ta": {
+      "g": "", 
+      "p": {}
+    }, 
+    "cred_man": {
+      "g": "", 
+      "p": {}
+    }, 
+    "direct_conversation_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "disc_ppl": {
+      "g": "", 
+      "p": {}
+    }, 
+    "early_flush": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebd_ul": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "em_sig": {
+      "g": "control_no_sug_d", 
+      "p": {
+        "has_multi_step_email_suggestion": "false", 
+        "has_signup_email_suggestion": "false"
+      }
+    }, 
+    "empty_feed": {
+      "g": "", 
+      "p": {}
+    }, 
+    "exit_story_creation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fb_unlink": {
+      "g": "test", 
+      "p": {
+        "has_new_flow": "true"
+      }
+    }, 
+    "feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_clear_fb_cookie": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_duration_limits": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_enabled": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting_v2": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_validation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_early_onboarding": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_all_fb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_button": {
+      "g": "", 
+      "p": {}
+    }, 
+    "form_navigation_dialog": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fsu_count": {
+      "g": "", 
+      "p": {}
+    }, 
+    "gdpr_row_tos": {
+      "g": "test_05_01", 
+      "p": {
+        "tos_version": "row"
+      }
+    }, 
+    "general_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "header_scroll": {
+      "g": "", 
+      "p": {}
+    }, 
+    "heart_tab": {
+      "g": "", 
+      "p": {}
+    }, 
+    "iab": {
+      "g": "test", 
+      "p": {
+        "has_open_app_android": "true"
+      }
+    }, 
+    "ig_aat": {
+      "g": "", 
+      "p": {}
+    }, 
+    "igtv_public_viewing": {
+      "g": "", 
+      "p": {}
+    }, 
+    "imgopt": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_direct_upsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_rating": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lo_stories": {
+      "g": "test_others", 
+      "p": {
+        "contextual_login_others": "true"
+      }
+    }, 
+    "log_cont": {
+      "g": "test_intent_m", 
+      "p": {
+        "has_contextual_m": "true"
+      }
+    }, 
+    "login_poe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lsc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "mobile_stories_doodling": {
+      "g": "", 
+      "p": {}
+    }, 
+    "msisdn": {
+      "g": "", 
+      "p": {}
+    }, 
+    "multireg_iter": {
+      "g": "", 
+      "p": {}
+    }, 
+    "mweb_topical_explore": {
+      "g": "", 
+      "p": {}
+    }, 
+    "notif": {
+      "g": "", 
+      "p": {}
+    }, 
+    "onetaplogin": {
+      "g": "", 
+      "p": {}
+    }, 
+    "p_edit": {
+      "g": "", 
+      "p": {}
+    }, 
+    "post_options": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_header_name": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_tabs": {
+      "g": "", 
+      "p": {}
+    }, 
+    "push_notifications": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg_vp": {
+      "g": "control_group_2", 
+      "p": {
+        "hide_value_prop": "false"
+      }
+    }, 
+    "report_media": {
+      "g": "", 
+      "p": {}
+    }, 
+    "report_profile": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "rout": {
+      "g": "", 
+      "p": {}
+    }, 
+    "shfb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "show_copy_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "sidecar_swipe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stale": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su_universe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "tp_pblshr": {
+      "g": "", 
+      "p": {}
+    }, 
+    "unfollow_confirm": {
+      "g": "", 
+      "p": {}
+    }, 
+    "video": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_lo_follow": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_loggedout_noop": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_nametag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "websr": {
+      "g": "", 
+      "p": {}
+    }
+  }, 
+  "rhx_gis": "896756ea1bf9f5a1cbdbe9a03b450abb", 
+  "rollout_hash": "80d4ae7d75e7", 
+  "server_checks": {}, 
+  "supports_es6": true, 
+  "zero_data": {}
+}

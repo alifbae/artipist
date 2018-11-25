@@ -1,0 +1,1056 @@
+{
+  "bundle_variant": "base", 
+  "config": {
+    "csrf_token": "2TFTLTR8ONa8bjyQvCNnbVLkCKX3CdiS", 
+    "viewer": null, 
+    "viewerId": null
+  }, 
+  "country_code": "PK", 
+  "deployment_stage": "c2", 
+  "entry_data": {
+    "PostPage": [
+      {
+        "graphql": {
+          "shortcode_media": {
+            "__typename": "GraphImage", 
+            "accessibility_caption": null, 
+            "caption_is_edited": false, 
+            "comments_disabled": false, 
+            "dimensions": {
+              "height": 750, 
+              "width": 750
+            }, 
+            "display_resources": [
+              {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/4fbb2691379fafe5e917e8e41f721011/5C8C4796/t51.2885-15/sh0.08/e35/s640x640/38643391_505268606567492_225674679996645376_n.jpg"
+              }, 
+              {
+                "config_height": 750, 
+                "config_width": 750, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/853bb2e298c954c10152908f021af80f/5CADE3E5/t51.2885-15/e35/38643391_505268606567492_225674679996645376_n.jpg"
+              }, 
+              {
+                "config_height": 1080, 
+                "config_width": 1080, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/853bb2e298c954c10152908f021af80f/5CADE3E5/t51.2885-15/e35/38643391_505268606567492_225674679996645376_n.jpg"
+              }
+            ], 
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/853bb2e298c954c10152908f021af80f/5CADE3E5/t51.2885-15/e35/38643391_505268606567492_225674679996645376_n.jpg", 
+            "edge_media_preview_like": {
+              "count": 2707, 
+              "edges": []
+            }, 
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Bucharest family, if you\u2019ve had a positive experience with a therapist who you\u2019d recommend without a doubt, leave their contact info in the comments. If you\u2019re comfortable, leave also a bit about your positive experience with them. \nOr, if you prefer privacy, send me a DM with the details :)\n\ud83c\udf31\n#ArtidoteLifelines is a new initiative I\u2019m launching at The Artidote. \nIt can be difficult finding a therapist - where do you start? who do you trust? My goal is to begin building a database of Mental Health resources in cities all over the world \u2014 professional resources that carry The Artidote community\u2019s seal of approval.\n\u2b50\ufe0f\nMy wish is to be able to provide more help with this platform beyond the daily content I already share. Because sometimes I receive messages from individuals that require more support than what I can provide through my channels. In these situations, I\u2019d like to have a list of resources that I can refer them to. So I need the entire global community\u2019s support in the coming days, weeks & months as I share posts asking for recommendations for cities across the globe.\n\ud83c\udf38\nToday I\u2019m asking anyone in Bucharest, Romania to send in their recommendations based on their personal experience. \nTHANK YOU\n\u2764\ufe0f\nWe\u2019re all in this together, \n@jovaferreyra"
+                  }
+                }
+              ]
+            }, 
+            "edge_media_to_comment": {
+              "count": 33, 
+              "edges": [
+                {
+                  "node": {
+                    "created_at": 1534686084, 
+                    "edge_liked_by": {
+                      "count": 8
+                    }, 
+                    "id": "17872591114263636", 
+                    "owner": {
+                      "id": "52560872", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/704e9c5c9f3f1b46275e5de3e2d6d8b5/5C9730EC/t51.2885-19/s150x150/42827104_476822569480687_6524822287818948608_n.jpg", 
+                      "username": "palacc"
+                    }, 
+                    "text": "Wow what a lovely idea. How did noone think of this before? Bravo Jovani \ud83d\udc9eI wish I could be of some help", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534687059, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17956188448112575", 
+                    "owner": {
+                      "id": "190478041", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/73e4807ada1d6f5c00eabbec29bd4c2f/5CAF4DC6/t51.2885-19/s150x150/42888677_2079902502339716_3880562325563899904_n.jpg", 
+                      "username": "arabines"
+                    }, 
+                    "text": "\ud83d\udc9a", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534689921, 
+                    "edge_liked_by": {
+                      "count": 16
+                    }, 
+                    "id": "17971155274035137", 
+                    "owner": {
+                      "id": "3227353682", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/7a29cb5eabc424581943d24a85ecc225/5C77AE02/t51.2885-19/s150x150/43985865_1483109125155084_9026680672344866816_n.jpg", 
+                      "username": "ignat.valentina"
+                    }, 
+                    "text": "Hi there!\nI recommend Adina Demian. Her website is adinademian.ro and there you will find all the information you need.\nShe has helped me deal with a lot of mental and emotional issues I have been through over the past few years, such as obsessive thoughts, anxiety, grief and depression. What I appreciated most in my experience was the fact the she gave me a healthy perspective when I didn\u2019t have one and a lot of tools that helped me understand myself, grow and better navigate the difficult moments.\nLots of love! \u2665\ufe0f", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534690169, 
+                    "edge_liked_by": {
+                      "count": 7
+                    }, 
+                    "id": "17898478117231802", 
+                    "owner": {
+                      "id": "8426178248", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a1eb4a2b3f6055f75002a33f7b6874ee/5C77FCC5/t51.2885-19/s150x150/38097217_227475641295032_7541803310093697024_n.jpg", 
+                      "username": "rramonette"
+                    }, 
+                    "text": "This is wonderful! As both a patient and a psychologist to be, I too found myself tormented by the quest most of us face when searching for professional help. Our national association is still trying to implement an efficient solution to deal with this issue. Baby steps though. To begin with, I strongly recommend this: www.istt.ro/home. The only centre in Ro for studying and treating trauma, which has amazing people as psychologists, personally & profesionally prepared to deal with all kinds of experiences that the human nature has been endowed to go through. Don't hesitate to contact me for more guidance if needed \u2764", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534690986, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17977720768043526", 
+                    "owner": {
+                      "id": "226786825", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a72abada00e5140de8fa0bea3ed9072e/5C797B2D/t51.2885-19/s150x150/40648324_582996135448828_912421207389765632_n.jpg", 
+                      "username": "anishesh"
+                    }, 
+                    "text": "Your posts! They heal more than a person! \u2764\ufe0f", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534693982, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17971449097017374", 
+                    "owner": {
+                      "id": "365734877", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e77b1efac4f61f76b9bcee9a3462ae14/5C93D889/t51.2885-19/s150x150/36160223_1004675886378176_8641723526698500096_n.jpg", 
+                      "username": "anamariavictoria12"
+                    }, 
+                    "text": "I would recommend Elena Cozma. I went to a life coach course started by her, and we had a chance to talk about her experiences both as a therapist and life coach. You can find her contact at http://www.psihoterapieconfident.ro/.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534696500, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17945351893188776", 
+                    "owner": {
+                      "id": "182857654", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/9dde509d24b7999fbad0bb415a99ddf2/5C7A4735/t51.2885-19/s150x150/43913995_324285131669609_7263300811529125888_n.jpg", 
+                      "username": "andreeaminz"
+                    }, 
+                    "text": "Thank you @theartidote \ud83d\udc93", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534696560, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17950190779087526", 
+                    "owner": {
+                      "id": "182857654", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/9dde509d24b7999fbad0bb415a99ddf2/5C7A4735/t51.2885-19/s150x150/43913995_324285131669609_7263300811529125888_n.jpg", 
+                      "username": "andreeaminz"
+                    }, 
+                    "text": "Thank you @theartidote \ud83d\udc93", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534697396, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17910647020201867", 
+                    "owner": {
+                      "id": "28811519", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/99f464f7a7a6b9b32046589725adc1c7/5C92D033/t51.2885-19/s150x150/36573463_203562087156026_5483521764849876992_n.jpg", 
+                      "username": "ovebecker"
+                    }, 
+                    "text": "oh god do this in more cities please!! berlin plsssss! i can recommend for mexico city", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534697989, 
+                    "edge_liked_by": {
+                      "count": 8
+                    }, 
+                    "id": "17966141227070025", 
+                    "owner": {
+                      "id": "193973202", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a88ab91c1b592d3fcb38d02c51c0e437/5CA9D86B/t51.2885-19/s150x150/12677707_590339871124062_1279697125_a.jpg", 
+                      "username": "sonjinne410"
+                    }, 
+                    "text": "I recommend Diana Ioanes. When I was in high school we were given the option to try group self-development and that\u2019s how she helped me realise that I want to study Psychology for uni. Finished my first year, couldn\u2019t be happier. She has A LOT of experience in psychotherapy and is a genuinely good and professional person. dianaioanes_bf@yahoo.com http://www.despresuflet.ro/cabinete-psihologice/bucuresti/cabinet-individual-de-psihologie-ioanes-diana-bucuresti--608/", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534699538, 
+                    "edge_liked_by": {
+                      "count": 7
+                    }, 
+                    "id": "17939244787167971", 
+                    "owner": {
+                      "id": "287569747", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e3f6044e88ce35ada89f3f9d4fc497db/5CA6BB0E/t51.2885-19/s150x150/43745946_284248988870579_3633890555479457792_n.jpg", 
+                      "username": "r1kalashnikov"
+                    }, 
+                    "text": "from the private clinic themind.ro \ndr Emilian Voiculescu.\ni have lots of things going on in my life and i felt really comfortable telling everything to him without being judged. plus the clinic gives you a really good vibe.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534699701, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17872358935269991", 
+                    "owner": {
+                      "id": "287569747", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e3f6044e88ce35ada89f3f9d4fc497db/5CA6BB0E/t51.2885-19/s150x150/43745946_284248988870579_3633890555479457792_n.jpg", 
+                      "username": "r1kalashnikov"
+                    }, 
+                    "text": "@r1kalashnikov he also knows about borderline personality disorder, which is not so common in romania...you wont find lots of therapists that know what you are talking about. so i was really happy when he mentioned it to me because someone could finally understand me.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534699797, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17950238092085313", 
+                    "owner": {
+                      "id": "399920206", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/dbf9c41b1d80620c6ea763109e9e392b/5CAA245F/t51.2885-19/s150x150/43985076_2131115917138684_2486141918073847808_n.jpg", 
+                      "username": "mademoiselle_al"
+                    }, 
+                    "text": "Could you do the same for Istanbul, Turkey?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534708735, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17898444733230518", 
+                    "owner": {
+                      "id": "248777389", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/1badb929f841b68a3cf30b7bf1b26425/5C93F9C5/t51.2885-19/s150x150/30604287_145696632939765_70287079669497856_n.jpg", 
+                      "username": "loreillustration"
+                    }, 
+                    "text": "This is a great idea!!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534722697, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17962444003073027", 
+                    "owner": {
+                      "id": "46963528", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/6265d6d4759d815a277b2f0effb92f92/5C965AAE/t51.2885-19/s150x150/43312076_2638235086402194_3130667409413767168_n.jpg", 
+                      "username": "n00b___"
+                    }, 
+                    "text": "i love that you do these simple things that make all the difference, you have a beautiful soul and im so happy we're alive together right now.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534762039, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17911963303203850", 
+                    "owner": {
+                      "id": "6930645514", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/ea57f10f2ec4402dcb84dc28bc9b3dfd/5CACEEF1/t51.2885-19/s150x150/26154863_400946253671756_242112481911111680_n.jpg", 
+                      "username": "mindwellnessinstitute"
+                    }, 
+                    "text": "@aura.maria Thank you Aura! I appreciate your trustworthy feedback!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534762301, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17957336557110934", 
+                    "owner": {
+                      "id": "4257557757", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c6575ef594b6bb709037616735ea9e07/5CAD750D/t51.2885-19/s150x150/15535209_357334501291340_108383289261162496_a.jpg", 
+                      "username": "petralinaa"
+                    }, 
+                    "text": "Dr. Pop Ioana, Psyclass medical center.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534762693, 
+                    "edge_liked_by": {
+                      "count": 9
+                    }, 
+                    "id": "17944816711190301", 
+                    "owner": {
+                      "id": "1440332287", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/aaf3ba88b446626c74606c9e815ba6e4/5CB26434/t51.2885-19/s150x150/40343116_1057106001136421_7981832278756032512_n.jpg", 
+                      "username": "aura.maria"
+                    }, 
+                    "text": "Later edit: I realised I could have given more info so that my recommandation is trustworthy, useful and people can relate to it :) In my experience after two unsuccessfull encounters with 2 psychologists whose approach I found to be superficial or it just didn\u2019t suit my way of relating to mental health, I met Mihaela Danaila from @mindwellnessinstitute who helped me deal with a lot of aspects in my life and very important gain and know there are other perspectives, always, when you are stuck, dealing with anxiety, depression or other sorts of imbalances. She helped me especially with self-criticism,the relationship I have with my mother and the loss-absence of my father, the later one being neglected for years before that. I appreciate the fact that she \u201cpreaches\u201d the teachings of mindufullness and doesn\u2019t seem to be the type of practitioner who gets stuck in ancient techniques but rather is open and very investigative about what she chooses to do with her clients. Like a doctor who does his research on new studies and is updated with the latest discoveries. That gives me a feeling of security and trust. She also gives therapy sessions via Skype so that\u2019s an extra. Be well everyone! \u270c\ud83c\udffb", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534772054, 
+                    "edge_liked_by": {
+                      "count": 4
+                    }, 
+                    "id": "17911805767206561", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Anonymous recommendation: \u201cIn regards of this post: I had a very positive experience with Dr. Mircea Radu. You can find him at www.plusdeviata.ro or on Facebook at \u201cPlus de Viata - Cabinet de Psihologie Mircea Radu\u201d. He\u2019s a wonderful man, very attentive, makes you feel very comfortable and he always manages to get to the root of your problems through talking or through little games, where you don\u2019t even notice how you\u2019re unraveling the sources of your own sorrows using your own brain.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534772131, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17852839597282480", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "@theartidote \u201cHe\u2019s a kind individual and I\u2019d recommend him to anyone who\u2019s struggling with their mental health. :)\u201d \u2014\u2014-thank you anonymous for the recommendation!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534774998, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17945834767143428", 
+                    "owner": {
+                      "id": "1939705102", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/0983ffea4ff91f8f47d81aeaa4dbdf45/5C783AD7/t51.2885-19/s150x150/23668304_529657774060707_1613696234755719168_n.jpg", 
+                      "username": "andraghiorghita"
+                    }, 
+                    "text": "Hello The artidotees, I stronlgy reccoment this place http://www.mindeducation.ro. I am a psychology student and since I have returned to Romania (i have been studying Clinical Psychology in The Netherlands) i wanted to find a place that provides evidence based therapy. So here it is. I think there are 3-4 psychologists there and they also provide therapy sessions is English. \ud83d\udd25", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534788926, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17864314576274021", 
+                    "owner": {
+                      "id": "5775370720", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/7d2ff90e70cfbdd8ae777ecd1d1a9669/5C91622E/t51.2885-19/s150x150/20398644_1922720991335441_1731498614930276352_a.jpg", 
+                      "username": "jenningsniamh"
+                    }, 
+                    "text": "I don\u2019t live in Bucharest so I can\u2019t recommend a therapist but any book by Susan Jeffers may be of help. There\u2019s a lot of comfort in those pages! Also the school of life videos on YouTube can be very insightful and witty. Take care everyone xx", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534789342, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17957121457100143", 
+                    "owner": {
+                      "id": "2124728792", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/13537eb55c40bd3ee0eae9503ea0652e/5CB150D4/t51.2885-19/s150x150/11325091_1443025289360538_921157781_a.jpg", 
+                      "username": "crisandreimogos"
+                    }, 
+                    "text": "My recomandation is Valentina Neac\u0219u, from Clinica Asist. She is a CBT therapist but her approach is eclectic, with this in mind, she is flexibile in her methods.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534794192, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17951100346090820", 
+                    "owner": {
+                      "id": "273514866", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/064d9ed65c01d07003b0c4a68a263fc1/5CA6390D/t51.2885-19/s150x150/45428016_1904767629642432_7369195485069836288_n.jpg", 
+                      "username": "chaos_hiatus"
+                    }, 
+                    "text": "@gensiulia90 \ud83d\udc80 \ud83e\udd13", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534802339, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17971648606013540", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "An anonymous Artidotee DMed the following info: \u201cOvidiu Popa-Velea - he is the head of the psychology department at one of the best Universities of Medicine in Romania (Carol Davila University of Medicine and Pharmacy). He is one of the best teachers I've ever had, his psy courses were really inspiring and one could actually feel his passion and dedication for his field. Also, talking to him about more personal issues was easy and comfortable. You could try reaching him using the following email address: ovidiu.popa-velea@umfcd.ro\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534802642, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17899002145224938", 
+                    "owner": {
+                      "id": "531592804", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/5bf5c68740bca64b14200f2022f0b3cf/5CAFDE88/t51.2885-19/s150x150/44718705_352903475517674_2530584968342536192_n.jpg", 
+                      "username": "annaaamaria25"
+                    }, 
+                    "text": "My recommendation is Mr. Mihai Catalin. He is also a Psychology teacher in my high school. He is the best human being and also my best friend. Everyone likes him so I am sure that everyone who tries to reach him will be embraced with love and kindness and understatement. Also, he is a funny and easy going man, so he will help you with your problem without even noticing he is doing that. You can find him on Facebook.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534858528, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17972437825038326", 
+                    "owner": {
+                      "id": "2060017145", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/2013d3243d6ac850bfed5aeb33484002/5C8C36B9/t51.2885-19/s150x150/43820690_262556624403797_2440684357875138560_n.jpg", 
+                      "username": "oneskeleton"
+                    }, 
+                    "text": "Respect \u270a", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1534959791, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17976242668050979", 
+                    "owner": {
+                      "id": "3236799507", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c014a5113dfd1bbaefc202025cec259b/5C914326/t51.2885-19/s150x150/34840959_155659338479088_9170476005616254976_n.jpg", 
+                      "username": "nolphand"
+                    }, 
+                    "text": "This is really a good initiative I think... I'm not living in the country where I grew up and lately I was thinking about seeing a psychologist, but I was really fearing not to find someone I could trust in this new country so having advices of artidotees would have helped me feel a bit more confident probably \ud83d\ude3d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535208666, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17973451390032922", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Anonymous recommendation: \u201cHi Jova! I'm from Bucharest and I would really like to recommend Keren Rosner, a therapist that helped me tremendously in a short period of time. She specializes in stress, anxiety and depression-related issues, as well as traumatic childhood events, but not only; she is very passionate about what she does so she is constantly researching and joining new courses so that she can have a thorough approach, while maintaining a very warm, human attitude as well. I used to suffer from really bad anxiety and mild depression and only going to her sessions for one year made me fix everything I was struggling with. I never thought I would be able to be so confident in myself and especially tone my emotions down and control them. Of course your page helped a lot as well, so I want to help others too :) I really wanted to make this recommendation because I know how important mental health is and this particular therapist gives amazing results and is so supportive...", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535208693, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17851084921287669", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Her phone number is 0723495380 and her address (where she hosts her sessions) is Bld. Magheru no. 43.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1535276655, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17959138312106062", 
+                    "owner": {
+                      "id": "3261059572", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/b1acb7e7cd1997922bbb8640f3df56fb/5CABB939/t51.2885-19/s150x150/44425915_564580727316230_3403844930215346176_n.jpg", 
+                      "username": "malis810"
+                    }, 
+                    "text": "Hi, I'm not from Bucharest, though I would like to recommend a therapist from Arad. His name is Karol Julien Wild and I've met him 5 times, mostly in the past year and he's helped overcome so many things and also helped me answer many questions which were going on inside my head by that time. He's very friendly and respectful and I've learned many exercises related to self-help, self-esteem and dealing with your own negative emotions. He has surprised me so many timed with his intelligence, also he's really funny :). So if you are from Arad I definitely recommend him even if you're dealing with problems that do not seem so big.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1536791415, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17879994097264730", 
+                    "owner": {
+                      "id": "605044655", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/8e0853523257880503584ca1c035f7c7/5C791F50/t51.2885-19/s150x150/43778937_576925472762005_6169620692779139072_n.jpg", 
+                      "username": "rallujinki"
+                    }, 
+                    "text": "@alexandra.pavel13", 
+                    "viewer_has_liked": false
+                  }
+                }
+              ], 
+              "page_info": {
+                "end_cursor": null, 
+                "has_next_page": false
+              }
+            }, 
+            "edge_media_to_sponsor_user": {
+              "edges": []
+            }, 
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }, 
+            "edge_web_media_to_related_media": {
+              "edges": []
+            }, 
+            "gating_info": null, 
+            "has_ranked_comments": false, 
+            "id": "1849400865191239701", 
+            "is_ad": false, 
+            "is_video": false, 
+            "location": null, 
+            "media_preview": "ACoqZb4LkdhnP/xP4H/PNWIuHc9ifT8vaq1uMgkfexwD7jr+WcH3qxBEUxliw6t17jt+NSnYpq5O7Ko5zk9DUkWWAzxkkDH8+aiVoGP3j9e351diwR8pDAelPmYrIy51bcu71OPyqkXIOMr+v+Fa94vKfVv5Csts5PX/AL6FIDShijVPkILbeeeM4Gc+nfripgIucYwScnPOcHjHoBg/1rJglXgryMEEfh/n8a0EfeCOOv6Y4NItO+wxI4VB2MAzAd/Qc5HIGemD+FWYzFDkowAPv7n/AOt6+wrPaInqqnn1A9P1qWNSowcY7DrQGvYtzFH54bAJU57k49eeOf8AOKyGHJ69f7gq002SMnaB0z05qi0seT8zdex/+vVENlaJCrggEYYH8M1tpIG9s9ASP6CsOPkH/PcVPESC2OMYx+dNocZWNjnt/n/x2msdnPJ9gR/UD+dVd7ep/OkZiepoSNJSstCvcsGkBYFgABjI/p79ah+0sONo/IVK1QmqsYX6n//Z", 
+            "owner": {
+              "blocked_by_viewer": false, 
+              "followed_by_viewer": false, 
+              "full_name": "the artidote", 
+              "has_blocked_viewer": false, 
+              "id": "560672181", 
+              "is_private": false, 
+              "is_unpublished": false, 
+              "is_verified": true, 
+              "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+              "requested_by_viewer": false, 
+              "username": "theartidote"
+            }, 
+            "shortcode": "BmqZEnRBiAV", 
+            "should_log_client_event": false, 
+            "taken_at_timestamp": 1534685784, 
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTRjNDEzYzUwNDAwNDkzY2I4YWI4M2M1YTI2ZWE0OGQxODQ5NDAwODY1MTkxMjM5NzAxIn0sInNpZ25hdHVyZSI6IiJ9", 
+            "viewer_can_reshare": true, 
+            "viewer_has_liked": false, 
+            "viewer_has_saved": false, 
+            "viewer_has_saved_to_collection": false, 
+            "viewer_in_photo_of_you": false
+          }
+        }
+      }
+    ]
+  }, 
+  "gatekeepers": {
+    "ld": true, 
+    "nt": true, 
+    "phone_qp": true, 
+    "rp": true, 
+    "saa": true, 
+    "seo": true, 
+    "seoht": true, 
+    "sf": true
+  }, 
+  "hostname": "www.instagram.com", 
+  "knobs": {
+    "acct:ntb": 0, 
+    "captcha": 0, 
+    "cb": 0, 
+    "fr": 0
+  }, 
+  "language_code": "en", 
+  "locale": "en_US", 
+  "mid_pct": 26.55701, 
+  "nonce": "7pmz6eGOm12uQwiAU1jFBA==", 
+  "platform": "web", 
+  "probably_has_app": false, 
+  "qe": {
+    "404_as_react": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_non_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "acc_recovery": {
+      "g": "control", 
+      "p": {
+        "has_account_recovery_redesign": "false"
+      }
+    }, 
+    "acc_recovery_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "app_upsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "app_upsell_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "appsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bc3l": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bundles": {
+      "g": "", 
+      "p": {}
+    }, 
+    "caching": {
+      "g": "", 
+      "p": {}
+    }, 
+    "collections": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_enhance": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_ta": {
+      "g": "", 
+      "p": {}
+    }, 
+    "cred_man": {
+      "g": "", 
+      "p": {}
+    }, 
+    "direct_conversation_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "disc_ppl": {
+      "g": "", 
+      "p": {}
+    }, 
+    "early_flush": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebd_ul": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "em_sig": {
+      "g": "control_no_dialog", 
+      "p": {
+        "has_multi_step_email_suggestion": "false", 
+        "has_signup_email_suggestion": "false"
+      }
+    }, 
+    "empty_feed": {
+      "g": "", 
+      "p": {}
+    }, 
+    "exit_story_creation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fb_unlink": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_clear_fb_cookie": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_duration_limits": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_enabled": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting_v2": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_validation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_early_onboarding": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_all_fb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_button": {
+      "g": "", 
+      "p": {}
+    }, 
+    "form_navigation_dialog": {
+      "g": "control", 
+      "p": {
+        "show_sign_in_navigation_dialog": "false"
+      }
+    }, 
+    "fsu_count": {
+      "g": "", 
+      "p": {}
+    }, 
+    "gdpr_row_tos": {
+      "g": "test_05_01", 
+      "p": {
+        "tos_version": "row"
+      }
+    }, 
+    "general_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "header_scroll": {
+      "g": "", 
+      "p": {}
+    }, 
+    "heart_tab": {
+      "g": "", 
+      "p": {}
+    }, 
+    "iab": {
+      "g": "control", 
+      "p": {
+        "has_open_app_ios": "false"
+      }
+    }, 
+    "ig_aat": {
+      "g": "", 
+      "p": {}
+    }, 
+    "igtv_public_viewing": {
+      "g": "", 
+      "p": {}
+    }, 
+    "imgopt": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_direct_upsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_rating": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lo_stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "log_cont": {
+      "g": "", 
+      "p": {}
+    }, 
+    "login_poe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lsc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "mobile_stories_doodling": {
+      "g": "", 
+      "p": {}
+    }, 
+    "msisdn": {
+      "g": "", 
+      "p": {}
+    }, 
+    "multireg_iter": {
+      "g": "control_11_15", 
+      "p": {
+        "has_focus_scroll": "false"
+      }
+    }, 
+    "mweb_topical_explore": {
+      "g": "", 
+      "p": {}
+    }, 
+    "notif": {
+      "g": "", 
+      "p": {}
+    }, 
+    "onetaplogin": {
+      "g": "test", 
+      "p": {
+        "after_login": "false", 
+        "storage_version": "one_tap_storage_version"
+      }
+    }, 
+    "p_edit": {
+      "g": "", 
+      "p": {}
+    }, 
+    "post_options": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_header_name": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_tabs": {
+      "g": "", 
+      "p": {}
+    }, 
+    "push_notifications": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg_vp": {
+      "g": "control_group_1", 
+      "p": {
+        "hide_value_prop": "false"
+      }
+    }, 
+    "report_media": {
+      "g": "", 
+      "p": {}
+    }, 
+    "report_profile": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "rout": {
+      "g": "", 
+      "p": {}
+    }, 
+    "shfb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "show_copy_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "sidecar_swipe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stale": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su_universe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "tp_pblshr": {
+      "g": "", 
+      "p": {}
+    }, 
+    "unfollow_confirm": {
+      "g": "", 
+      "p": {}
+    }, 
+    "video": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_logged_out": {
+      "g": "test", 
+      "p": {
+        "video_show_watch_on_ig": "true"
+      }
+    }, 
+    "web_embeds_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_lo_follow": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_loggedout_noop": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_nametag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "websr": {
+      "g": "", 
+      "p": {}
+    }
+  }, 
+  "rhx_gis": "896756ea1bf9f5a1cbdbe9a03b450abb", 
+  "rollout_hash": "80d4ae7d75e7", 
+  "server_checks": {}, 
+  "supports_es6": true, 
+  "zero_data": {}
+}

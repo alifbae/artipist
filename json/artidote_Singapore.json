@@ -1,0 +1,1165 @@
+{
+  "bundle_variant": "base", 
+  "config": {
+    "csrf_token": "6lBevVaXLeaHrtzuSYSnCk1krtfY1dUs", 
+    "viewer": null, 
+    "viewerId": null
+  }, 
+  "country_code": "PK", 
+  "deployment_stage": "c2", 
+  "entry_data": {
+    "PostPage": [
+      {
+        "graphql": {
+          "shortcode_media": {
+            "__typename": "GraphImage", 
+            "accessibility_caption": null, 
+            "caption_is_edited": false, 
+            "comments_disabled": false, 
+            "dimensions": {
+              "height": 1080, 
+              "width": 1080
+            }, 
+            "display_resources": [
+              {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/8c26db977b78bb21fbc44c22b9f9ef61/5C9032A8/t51.2885-15/sh0.08/e35/s640x640/44860755_566145487180003_600763607916598007_n.jpg"
+              }, 
+              {
+                "config_height": 750, 
+                "config_width": 750, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/44c6095a4ab2b5b99c747756f7a5164b/5C75B257/t51.2885-15/sh0.08/e35/s750x750/44860755_566145487180003_600763607916598007_n.jpg"
+              }, 
+              {
+                "config_height": 1080, 
+                "config_width": 1080, 
+                "src": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3494f962f3808f4be00fbf2e0d0e18d0/5C8D99DB/t51.2885-15/e35/44860755_566145487180003_600763607916598007_n.jpg"
+              }
+            ], 
+            "display_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3494f962f3808f4be00fbf2e0d0e18d0/5C8D99DB/t51.2885-15/e35/44860755_566145487180003_600763607916598007_n.jpg", 
+            "edge_media_preview_like": {
+              "count": 2514, 
+              "edges": []
+            }, 
+            "edge_media_to_caption": {
+              "edges": [
+                {
+                  "node": {
+                    "text": "Singapore family, if you\u2019ve had a positive experience with a professional therapist who you\u2019d recommend without a doubt, please leave their contact info in the comments. And if you\u2019re comfortable, leave also a bit about your positive experience with them. My idea is to create a stream of reliable resources in the comments of these posts so that others in the vicinity may benefit from our collective experience. \nBut I understand the stigmas still surrounding Mental Health so, if you prefer anonymity, you may also send me a DM with your recommendations :)\n\ud83c\udf31\n#ArtidoteLifelines is a new initiative here at The Artidote. It can be difficult finding a therapist \u2014 Where do you start? Who do you trust? My goal is to begin building a database of Mental Health resources in cities all over the world; professional resources that carry The Artidote community\u2019s seal of approval.\n\u2b50\ufe0f\nMy wish is to be able to provide more help with this platform beyond the daily content that I already share. Sometimes I receive messages from individuals that require more support than what I can currently provide through my channels. In these situations, I\u2019d like to have a list of resources that I can refer them to. So I need the entire global community\u2019s support in the coming days, weeks & months as I share posts asking for recommendations for cities across the world.\n\ud83c\udf38\nToday I\u2019m asking anyone in #Singapore to send in your recommendations based on your personal experience. Any mental health resources in this city will be welcomed and appreciated by us all. \nTHANK YOU\n\u2764\ufe0f\nWe\u2019re all in this together. Let\u2019s lift each other up.\n\u2014@jovaferreyra"
+                  }
+                }
+              ]
+            }, 
+            "edge_media_to_comment": {
+              "count": 48, 
+              "edges": [
+                {
+                  "node": {
+                    "created_at": 1542900527, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17980147270080149", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "@nurizalya thank you for having the courage to share :) \u2764\ufe0f what is the name of the hospital?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542902668, 
+                    "edge_liked_by": {
+                      "count": 5
+                    }, 
+                    "id": "18000268006027521", 
+                    "owner": {
+                      "id": "1019451796", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/4ebb89119367341be13be47a7fe35ae9/5C8CB011/t51.2885-19/s150x150/39913440_1921671064556825_6895449399636262912_n.jpg", 
+                      "username": "ques.era"
+                    }, 
+                    "text": "i've been seeing evelyn boon, a senior psychologist, at sgh's life centre clinic for almost 2 years now and she's really wonderful - she's supportive, funny, open-minded yet no-nonsense when the situation calls for it. the sessions with her have helped me a lot in terms of coming up with simple solutions for the day-to-day difficulties i face, even now.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542903377, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17975601349133273", 
+                    "owner": {
+                      "id": "206763495", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a6124343b2c7ea58da39e3e500e7ee11/5C7778AA/t51.2885-19/s150x150/25015816_144256952941935_5020638295952982016_n.jpg", 
+                      "username": "kroos07"
+                    }, 
+                    "text": "@helloimron", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542904481, 
+                    "edge_liked_by": {
+                      "count": 8
+                    }, 
+                    "id": "17977599637187880", 
+                    "owner": {
+                      "id": "7336087620", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/5e30316081baeb2b53e75098049760e3/5CAA64BB/t51.2885-19/s150x150/42843154_329128411198911_2232063717405622272_n.jpg", 
+                      "username": "bloop.blob"
+                    }, 
+                    "text": "I really recommend:\n- CHAT for free diagnoses & referrals to heavily subsidised counselling; although take note that a lot of young people go there so the waiting list and process might be long\n- Eagles Mediation and Counselling Centre for couples therapy, mediation, their individual counselling is good too, plus they're very generous about reducing the cost of treatment depending on your financial situation\n- Psycare Consultants; private clinic (hence pretty expensive rates per hour) with good psychotherapists like Tan Yih Sze (the one I saw). most of the psychotherapists in this clinic are trained in specific therapy types to deal with ptsd/trauma/related addictive disorders/backgrounds of abuse, and they often have multilingual patients of a range of ages and backgrounds (mandarin/dialect-speaking, children, etc)\nall of the above are LGBTQ-friendly, if that's a concern to you!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542905089, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17895182932273268", 
+                    "owner": {
+                      "id": "7336087620", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/5e30316081baeb2b53e75098049760e3/5CAA64BB/t51.2885-19/s150x150/42843154_329128411198911_2232063717405622272_n.jpg", 
+                      "username": "bloop.blob"
+                    }, 
+                    "text": "tips for finding professional help:\n1) the process is usually long and not easy, but don't be discouraged if the first few counselors or therapists aren't the right chemistry fit. you might find that talk therapy is not for you, or that you don't want to take medication, or that you need both. all of that is fine. eventually you will get to somewhere with resources to help you in some way if you keep looking\n2) if you more or less know your condition/diagnosis, look up the clinical specialisations of the therapists in public hospitals and private clinics to facilitate finding a therapist who's trained in the right kinds of therapy to treat you. ask around friends, look in more unlikely places like university psych clinics which might have cheaper fees (James Cook Uni, NUS CPS), get reviews from others on therapists/counsellors\n3) proactively ask for a free first trial session through email or whatnot if you have to pay for the kind of therapy you're going for, so that if the therapist is a Hard No (discriminatory, insensitive, stigmatizing), you at least won't be paying them for a session you're technically not getting any therapy in", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542905175, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "18002757847011282", 
+                    "owner": {
+                      "id": "7336087620", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/5e30316081baeb2b53e75098049760e3/5CAA64BB/t51.2885-19/s150x150/42843154_329128411198911_2232063717405622272_n.jpg", 
+                      "username": "bloop.blob"
+                    }, 
+                    "text": "if you're LGBTQ and looking for resources on how to deal with that, DM me and I can try my best to link you to resources or groups that can help you out!!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542905348, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17938222801218130", 
+                    "owner": {
+                      "id": "39323591", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/b3a956ccf84151604c539ba404e98747/5C93186A/t51.2885-19/s150x150/38790074_294943971086771_4080787971417047040_n.jpg", 
+                      "username": "daisyannemitchell"
+                    }, 
+                    "text": "omg Thank you!!!! i Needed this", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542905505, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17971774438158767", 
+                    "owner": {
+                      "id": "7336087620", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/5e30316081baeb2b53e75098049760e3/5CAA64BB/t51.2885-19/s150x150/42843154_329128411198911_2232063717405622272_n.jpg", 
+                      "username": "bloop.blob"
+                    }, 
+                    "text": "also, psycare clinic deals with much more than trauma therapy stuff!! that's just a bit more uncommon so I felt I needed to highlight it. if you have depression, anxiety, bipolar, etc you'd get sufficient help too. it's just pretty expensive so I'd recommend Eagles if you're looking for fees on a sliding scale that still provides quality therapy", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542907479, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17938991110217142", 
+                    "owner": {
+                      "id": "3213888287", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a340e60997486f97953458afd451bc4a/5CB09691/t51.2885-19/s150x150/39215051_279108329356551_7491356535495327744_n.jpg", 
+                      "username": "rohit.2093"
+                    }, 
+                    "text": "@learningdifferently", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542908805, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17938494565217404", 
+                    "owner": {
+                      "id": "4191835362", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/9b07f45e459d282d025b74165b84656a/5C8D7438/t51.2885-19/s150x150/43435686_257505418233361_5685810240545619968_n.jpg", 
+                      "username": "salmonroll"
+                    }, 
+                    "text": "will you be doing indonesia?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542914529, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17987874274104033", 
+                    "owner": {
+                      "id": "51993737", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/46d91e03d72486a267be4195ee332553/5C74DB69/t51.2885-19/s150x150/40619308_300434827218857_1838477909447147520_n.jpg", 
+                      "username": "pragxoxo"
+                    }, 
+                    "text": "There are quite a few art therapists in Singapore if anyone is interested in that :)", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542916874, 
+                    "edge_liked_by": {
+                      "count": 6
+                    }, 
+                    "id": "17972172253153253", 
+                    "owner": {
+                      "id": "5406309824", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e1f25203707dd6bef1c42d511480e7e7/5CA46855/t51.2885-19/s150x150/40109785_2315042871869359_3204669330851627008_n.jpg", 
+                      "username": "sandylyj"
+                    }, 
+                    "text": "I did a survey regarding why those struggling with their mental health aren\u2019t seeking professional help and concluded two expected answers that Singaporeans will give. \n1) stigmatism, even though government hospitals are fairly affordable after it\u2019s been subsidized, many people fear that no companies will hire them bc of the diagnosis shown in their medical report.\n\n2) financial difficulties, private clinics will ensure confidentiality unlike gov hospitals but the con is the hefty price tag, some private clinics charge based on duration, not per hour but per minute. \nWhen both social stigmatism and financial issue combined, most Singaporeans will simply drop the idea of therapy. I personally chose to be treated from gov hospitals mainly because of their credibility, I believe that a good company will not be quick to judge and focus on individual\u2019s skills and capabilities instead. Quick tip for Singaporeans that\u2019ll consider gov hospitals, visit any Polyclinic and ask for a referral to the hospital you prefer(some hospitals offers specialized disorders), a referral letter from Polyclinic will get you an earlier appointment slot in the hospital.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542921446, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17930148832227390", 
+                    "owner": {
+                      "id": "750806381", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/009cbf183883fc463409c3bfc445e25f/5C7357E9/t51.2885-19/s150x150/30077870_774085246120755_4101331779246358528_n.jpg", 
+                      "username": "a1exa100"
+                    }, 
+                    "text": "I went to SACAC counseling and my therapist was named Mahima Gupta and she helped me a lot after going through the hardest time of my life. Unfortunately I wasn't able to continue therapy with her because I moved and the cost was a lot, but if you can afford SACAC counseling, they have some of the best therapists.", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542926852, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17872104700289274", 
+                    "owner": {
+                      "id": "9220920936", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/388d81866f3becb7824f9cc95a983c3f/5C923A20/t51.2885-19/s150x150/44528651_327391448063678_7831590727854325760_n.jpg", 
+                      "username": "corruptedalien_workbook"
+                    }, 
+                    "text": "Can we please do this for Bangladesh? Please?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542930322, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17969489383167899", 
+                    "owner": {
+                      "id": "51822557", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3e8ae3483c1a953ab6181783ff24a001/5C8F2992/t51.2885-19/s150x150/36085244_260579954492060_7692413579642798080_n.jpg", 
+                      "username": "fernfacts"
+                    }, 
+                    "text": "Janet from Mindcare Clinic! I\u2019ve only seen her for three sessions thus far but I feel a huge difference already. She\u2019s the first therapist that made me feel completely at ease. Sessions are twice the price of government hospitals, but I\u2019ve been telling myself this: my mental health is an investment for my future. Take care, everyone \ud83d\udc99 your artidote family is here with you!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542931700, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "18002568952025380", 
+                    "owner": {
+                      "id": "353110570", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/f02d73afba9dec3ab7e82627317a739b/5C95AF48/t51.2885-19/s150x150/12357537_533180360180856_580091197_a.jpg", 
+                      "username": "eaxeposed"
+                    }, 
+                    "text": "@frezzelpretzel @getthevillain", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542933387, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17988855292107010", 
+                    "owner": {
+                      "id": "2950752413", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/8a81bb405cc014f685e71bc39fb101f2/5CA43EF4/t51.2885-19/s150x150/43779575_459190514486953_3213289093991497728_n.jpg", 
+                      "username": "chittira"
+                    }, 
+                    "text": "Can you please recommend someone in Delhi, India?", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542933482, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "18006004165065192", 
+                    "owner": {
+                      "id": "1629275190", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/517cb61c87cde6c294c4969140b8c7ab/5C927BE6/t51.2885-19/s150x150/40330088_220903608782928_3225331065597984768_n.jpg", 
+                      "username": "nabae0908"
+                    }, 
+                    "text": "@xavvvierrrlynnn !!!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542936211, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "18003717817050771", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "@chittira good news: the Delhi post is already up :) click this hashtag to locate it #ArtidoteLifelines", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542936969, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17972431840159333", 
+                    "owner": {
+                      "id": "376427293", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/0a23cfde887cf11320772dc5269539af/5C725504/t51.2885-19/s150x150/44896071_192482528345207_4549738455281696768_n.jpg", 
+                      "username": "stella_murphy"
+                    }, 
+                    "text": "\u2728k@ll", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542938514, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17987573347105397", 
+                    "owner": {
+                      "id": "5669707479", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/4f1cf33099423b93cedf2e4c77d0947b/5CB08115/t51.2885-19/s150x150/46583802_2112000842197079_6895323342346125312_n.jpg", 
+                      "username": "xavvvierrrlynnn"
+                    }, 
+                    "text": "@nabae0908 ooo!!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542948742, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "18002231587027923", 
+                    "owner": {
+                      "id": "3767093523", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/c227dcdf9155c34a15b1f7c9f5acb988/5CAA18EE/t51.2885-19/s150x150/43985470_311782996314892_3548172650452877312_n.jpg", 
+                      "username": "okokjn"
+                    }, 
+                    "text": "i doNT TRUST ANY SO IM GLAD THIS IS A THING", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542953575, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "18002762785014278", 
+                    "owner": {
+                      "id": "8225824886", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/6ced74b553b5fd8fb3e2253f6d7fa87e/5CA44318/t51.2885-19/s150x150/44679554_287734968532667_4895392299367792640_n.jpg", 
+                      "username": "ally.lifestyl.e"
+                    }, 
+                    "text": "Alliance Counseling or if ur on a budget go to IMH for subsidies", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542959915, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17941373023207242", 
+                    "owner": {
+                      "id": "1680685074", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/e04caa98b58a03657c1c9a24f675f782/5C9876A0/t51.2885-19/s150x150/44769458_1951350054981269_8403013109857386496_n.jpg", 
+                      "username": "sreyaiouslysings"
+                    }, 
+                    "text": "SMU peeps can go to Connie Wong at the Mrs Wong Leong Kwok Wellness Centre, she's great and give plenty of really practical tips \ud83d\udd25", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542960175, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17872212355290764", 
+                    "owner": {
+                      "id": "995451", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/fb96daf25513f8c226e43a2a7e9a033e/5C777FD8/t51.2885-19/s150x150/44328383_285332745452667_3656902474855350272_n.jpg", 
+                      "username": "carmenchanz"
+                    }, 
+                    "text": "Kuala Lumpur too please!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542960176, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17959863568194144", 
+                    "owner": {
+                      "id": "248876084", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/3f1199af0a4a74f7027f7bee735852cf/5C7724CC/t51.2885-19/s150x150/43818070_317849342372622_7730785985696366592_n.jpg", 
+                      "username": "supernivi"
+                    }, 
+                    "text": "@rhcounsellingsingapore", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542962866, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "18003286990028998", 
+                    "owner": {
+                      "id": "8225824886", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/6ced74b553b5fd8fb3e2253f6d7fa87e/5CA44318/t51.2885-19/s150x150/44679554_287734968532667_4895392299367792640_n.jpg", 
+                      "username": "ally.lifestyl.e"
+                    }, 
+                    "text": "@pragxoxo where!", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542964765, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17884728202304124", 
+                    "owner": {
+                      "id": "51993737", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/46d91e03d72486a267be4195ee332553/5C74DB69/t51.2885-19/s150x150/40619308_300434827218857_1838477909447147520_n.jpg", 
+                      "username": "pragxoxo"
+                    }, 
+                    "text": "@ally.lifestyl.e there\u2019s a list of registered art therapists on the Art Therapy Association Singapore website :)", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542974060, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17938934080218070", 
+                    "owner": {
+                      "id": "1390103221", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a221bbc841366ce92ee2e2bfc1687e56/5CA539BC/t51.2885-19/s150x150/43914701_285670628736698_7286227565998505984_n.jpg", 
+                      "username": "cherylleehh_"
+                    }, 
+                    "text": "@ques.era I second this!! She wasn't my main psychologist but I've had group sessions and encounters with her and she really is the loveliest person! My friends who are/were under her care all have positive feedback about her too! (:", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542974248, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17980165513089369", 
+                    "owner": {
+                      "id": "3179697707", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/54f574a261cb950912f1a39ee30cda46/5C7B442E/t51.2885-19/s150x150/44663748_274250326540312_1229544846448918528_n.jpg", 
+                      "username": "sens8tes"
+                    }, 
+                    "text": "can you make a post for paris?? \ud83d\udc93", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542974426, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "18004464430040536", 
+                    "owner": {
+                      "id": "1390103221", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/a221bbc841366ce92ee2e2bfc1687e56/5CA539BC/t51.2885-19/s150x150/43914701_285670628736698_7286227565998505984_n.jpg", 
+                      "username": "cherylleehh_"
+                    }, 
+                    "text": "Dr Lee Ee Lian (psychiatrist) from BetterLife is great for eating disorders among other mood disorders. (65) 6250 8077\nclinic@better-life.sg\n\u00a010 Sinaran Drive, #08 \u2013 17/30\nNovena Medical Centre\nSingapore 307506", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542976711, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17995882027077239", 
+                    "owner": {
+                      "id": "1541712564", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/678a93cfbf97803340b8b46e8d6c79f8/5C74740F/t51.2885-19/s150x150/34266225_602783283415861_6504143136980205568_n.jpg", 
+                      "username": "ferandaaa"
+                    }, 
+                    "text": "Dr Gan, psychologist from Child Guidance Clinic at NUH! I went when I was younger and he is amazing. Not only was he patient (I spent a good six months and six sessions not saying anything substantial), even when I grew too old for the clinic (they cater to children and so at 18 there was pressure to leave) he made sure to tell me I could continue seeing him, regardless. For children, fees are subsidised to $40 per session, you can book as and when you like (my doctor talked with me about what I felt comfortable with) and since it's under the govt there are more subsidies for those who need them. All in all it was a relief to be heard by him, and received warmly by a place that always cared", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542984162, 
+                    "edge_liked_by": {
+                      "count": 3
+                    }, 
+                    "id": "17912276224255982", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Anonymous submission: \u201cAarti Mundae was my counselor for over a year. She helped me battle depression. She was extremely open minded, responsive understanding and supportive. I felt very comfortable opening up to her. She\u2019s given me excellent advice and encouragement. I\u2019m extremely grateful to her for helping me through my darkest phase. I\u2019d highly recommend her to anyone who needs counseling, especially teenagers.\u201d", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1542984195, 
+                    "edge_liked_by": {
+                      "count": 1
+                    }, 
+                    "id": "17872414495290207", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Her details: \nAarti Mundae, \nINCONTACT Counselling and training \nPhone number: +65 98524654\nEmail: aarti@incontact.com.sg", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1543001112, 
+                    "edge_liked_by": {
+                      "count": 2
+                    }, 
+                    "id": "17939585608210066", 
+                    "owner": {
+                      "id": "560672181", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+                      "username": "theartidote"
+                    }, 
+                    "text": "Anonymous recommendation: \u201cI would recommend Eugene Tay at PsycHealth if anyone is interested in cognitive behavioural therapy or mindfulness based therapy. He is highly professional and extremely approachable. Not once has he ever made me feel judged, which was not the experience I had with other Therapists/psychiatrists. Although I\u2019ve overcome my depression now, I make it a point to still see him because he never fails to help me gain a better perspective with whatever is happening in my life. Couldn\u2019t recommend him more :)\u201d http://www.psychealth.sg", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1543027925, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "18003471784006549", 
+                    "owner": {
+                      "id": "50379766", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/1ba748a0644fc2b8ec53c06c28c3918d/5C79752D/t51.2885-19/s150x150/43635043_289227515021650_8818245587347439616_n.jpg", 
+                      "username": "frezzelpretzel"
+                    }, 
+                    "text": "@kisnaaz", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1543052647, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17977256899138225", 
+                    "owner": {
+                      "id": "1459507177", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/71edace0b35afdc9be2772e6654a8b2a/5CA49A68/t51.2885-19/s150x150/39181415_214023972800708_1237683616201310208_n.jpg", 
+                      "username": "sarahjinsalazar"
+                    }, 
+                    "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1543063519, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17911191043260246", 
+                    "owner": {
+                      "id": "639524846", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/1907eee2f78ad965aa087951c09c718c/5C8F2F7E/t51.2885-19/s150x150/40200417_2161635530757987_5887246938327220224_n.jpg", 
+                      "username": "lohwanping"
+                    }, 
+                    "text": "@h_eatherfeather  reccs pls", 
+                    "viewer_has_liked": false
+                  }
+                }, 
+                {
+                  "node": {
+                    "created_at": 1543072409, 
+                    "edge_liked_by": {
+                      "count": 0
+                    }, 
+                    "id": "17987291698112796", 
+                    "owner": {
+                      "id": "5560677879", 
+                      "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/0047614800e31502e94da0accdacd754/5C8BF00E/t51.2885-19/s150x150/19228499_1348786801836464_5349222372341710848_a.jpg", 
+                      "username": "abstrktmgic"
+                    }, 
+                    "text": "@a1exa100 I second this. SACAC services and therapists are really good. If you\u2019re lucky, your workplace may also have them under their employee assistance program.", 
+                    "viewer_has_liked": false
+                  }
+                }
+              ], 
+              "page_info": {
+                "end_cursor": "QVFDdUp6Z19KVGxPeVRQRFFrbVI3bVJISFpIZzVxTUwxWEVhWmJFMlBsVnNhSXNfaTFZbUpxSjVmbWZyRkI2QzNGOFJ0Q1pvN2c5ZTF1QmlnUUJYS2E4VQ==", 
+                "has_next_page": true
+              }
+            }, 
+            "edge_media_to_sponsor_user": {
+              "edges": []
+            }, 
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }, 
+            "edge_web_media_to_related_media": {
+              "edges": []
+            }, 
+            "gating_info": null, 
+            "has_ranked_comments": false, 
+            "id": "1918277303855606887", 
+            "is_ad": false, 
+            "is_video": false, 
+            "location": null, 
+            "media_preview": "ACoqqAdsL+X/ANel68bQPoKbbCR+xIJwOwz/AL38/bvT5/MUqFDA7ivTIJ/qK15kJ+RIiZ7Ukm0dcfmKdlljUkNu3fNwce3PpzTPs77SmGJyCOPQHNJ1ASJFt8H58c9P/rVGVQHv+VPZXZEC5ySc4yc4+n48D06DFQG7lU4ITjj7opqouvy+4lwfQtWOoeXFtK52HI5x79Mf4j2FW11MFsMMA45644I6dsnnI/I1zqZQFc9an8k/304/2qzsUb41BSxXHykhc55xgckfnUr3gUnjOMd+eefwHtXOqpBzvTrnr/8AWqRizEksnOP4v1qZJ203LVuprG+C4fH94EA8dc5HYE/TpVSRUkYuR94k/mc1mMxX5cg+45FN3t61LhJ9SlKK6EsUoRcEsDnsFI/XmpDcL2Z/++UqlRWxkXPPUdC3/fKfz9aX7QPVv++UqlRQBdNwCCNze3yr+uP896p0lFAH/9k=", 
+            "owner": {
+              "blocked_by_viewer": false, 
+              "followed_by_viewer": false, 
+              "full_name": "the artidote", 
+              "has_blocked_viewer": false, 
+              "id": "560672181", 
+              "is_private": false, 
+              "is_unpublished": false, 
+              "is_verified": true, 
+              "profile_pic_url": "https://instagram.fkhi1-1.fna.fbcdn.net/vp/97c1ac0701fc65a7583b653e6fe5709f/5C937431/t51.2885-19/s150x150/25017834_1953928754857667_653643414851551232_n.jpg", 
+              "requested_by_viewer": false, 
+              "username": "theartidote"
+            }, 
+            "shortcode": "BqfFwtdAexn", 
+            "should_log_client_event": false, 
+            "taken_at_timestamp": 1542896496, 
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjlmY2M5NWU2YmY2NDI4MGFiNmI1NTIwOGZhODBkOTMxOTE4Mjc3MzAzODU1NjA2ODg3In0sInNpZ25hdHVyZSI6IiJ9", 
+            "viewer_can_reshare": true, 
+            "viewer_has_liked": false, 
+            "viewer_has_saved": false, 
+            "viewer_has_saved_to_collection": false, 
+            "viewer_in_photo_of_you": false
+          }
+        }
+      }
+    ]
+  }, 
+  "gatekeepers": {
+    "ld": true, 
+    "nt": true, 
+    "phone_qp": true, 
+    "rp": true, 
+    "saa": true, 
+    "seo": true, 
+    "seoht": true, 
+    "sf": true
+  }, 
+  "hostname": "www.instagram.com", 
+  "knobs": {
+    "acct:ntb": 0, 
+    "captcha": 0, 
+    "cb": 0, 
+    "fr": 0
+  }, 
+  "language_code": "en", 
+  "locale": "en_US", 
+  "mid_pct": 60.9644, 
+  "nonce": "pz1LhFrq1DExqf5lotfs9w==", 
+  "platform": "web", 
+  "probably_has_app": false, 
+  "qe": {
+    "404_as_react": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_non_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "a2hs_heuristic_uc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "acc_recovery": {
+      "g": "control", 
+      "p": {
+        "has_account_recovery_redesign": "false"
+      }
+    }, 
+    "acc_recovery_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "app_upsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "app_upsell_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "appsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bc3l": {
+      "g": "", 
+      "p": {}
+    }, 
+    "bundles": {
+      "g": "", 
+      "p": {}
+    }, 
+    "caching": {
+      "g": "", 
+      "p": {}
+    }, 
+    "collections": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_enhance": {
+      "g": "", 
+      "p": {}
+    }, 
+    "comment_ta": {
+      "g": "", 
+      "p": {}
+    }, 
+    "cred_man": {
+      "g": "", 
+      "p": {}
+    }, 
+    "direct_conversation_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "disc_ppl": {
+      "g": "", 
+      "p": {}
+    }, 
+    "early_flush": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebd_ul": {
+      "g": "test_with_universal", 
+      "p": {
+        "is_enabled": "true"
+      }
+    }, 
+    "ebdsim_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "ebdsim_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "em_sig": {
+      "g": "test_w_dialog", 
+      "p": {
+        "has_multi_step_email_suggestion": "true", 
+        "has_signup_email_suggestion": "false"
+      }
+    }, 
+    "empty_feed": {
+      "g": "", 
+      "p": {}
+    }, 
+    "exit_story_creation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fb_unlink": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "feed_video_user_tag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_clear_fb_cookie": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_duration_limits": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_enabled": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_fb_crossposting_v2": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_validation": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_creation_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "felix_early_onboarding": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_all_fb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "follow_button": {
+      "g": "", 
+      "p": {}
+    }, 
+    "form_navigation_dialog": {
+      "g": "", 
+      "p": {}
+    }, 
+    "fsu_count": {
+      "g": "", 
+      "p": {}
+    }, 
+    "gdpr_row_tos": {
+      "g": "control_05_01", 
+      "p": {
+        "tos_version": "row"
+      }
+    }, 
+    "general_reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "header_scroll": {
+      "g": "", 
+      "p": {}
+    }, 
+    "heart_tab": {
+      "g": "", 
+      "p": {}
+    }, 
+    "iab": {
+      "g": "test", 
+      "p": {
+        "has_open_app_android": "true"
+      }
+    }, 
+    "ig_aat": {
+      "g": "", 
+      "p": {}
+    }, 
+    "igtv_public_viewing": {
+      "g": "", 
+      "p": {}
+    }, 
+    "imgopt": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_direct_upsell": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_feed_video_user_tag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_rating": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lite_video_upload": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lo_stories": {
+      "g": "test_others", 
+      "p": {
+        "contextual_login_others": "true"
+      }
+    }, 
+    "log_cont": {
+      "g": "test_intent_1", 
+      "p": {
+        "has_contextual": "true"
+      }
+    }, 
+    "login_poe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "lsc": {
+      "g": "", 
+      "p": {}
+    }, 
+    "mobile_stories_doodling": {
+      "g": "", 
+      "p": {}
+    }, 
+    "msisdn": {
+      "g": "", 
+      "p": {}
+    }, 
+    "multireg_iter": {
+      "g": "has_focus_scroll_11_15", 
+      "p": {
+        "has_focus_scroll": "true"
+      }
+    }, 
+    "mweb_topical_explore": {
+      "g": "", 
+      "p": {}
+    }, 
+    "notif": {
+      "g": "", 
+      "p": {}
+    }, 
+    "onetaplogin": {
+      "g": "", 
+      "p": {}
+    }, 
+    "p_edit": {
+      "g": "", 
+      "p": {}
+    }, 
+    "post_options": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_li": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_enhance_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_header_name": {
+      "g": "", 
+      "p": {}
+    }, 
+    "profile_tabs": {
+      "g": "", 
+      "p": {}
+    }, 
+    "push_notifications": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reg_vp": {
+      "g": "", 
+      "p": {}
+    }, 
+    "report_media": {
+      "g": "", 
+      "p": {}
+    }, 
+    "report_profile": {
+      "g": "", 
+      "p": {}
+    }, 
+    "reporting": {
+      "g": "", 
+      "p": {}
+    }, 
+    "rout": {
+      "g": "", 
+      "p": {}
+    }, 
+    "shfb": {
+      "g": "", 
+      "p": {}
+    }, 
+    "show_copy_link": {
+      "g": "", 
+      "p": {}
+    }, 
+    "sidecar_swipe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stale": {
+      "g": "", 
+      "p": {}
+    }, 
+    "stories": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su": {
+      "g": "", 
+      "p": {}
+    }, 
+    "su_universe": {
+      "g": "", 
+      "p": {}
+    }, 
+    "tp_pblshr": {
+      "g": "", 
+      "p": {}
+    }, 
+    "unfollow_confirm": {
+      "g": "", 
+      "p": {}
+    }, 
+    "video": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_datasaver_mode": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_embeds_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_hashtag_logged_out": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_lo_follow": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_loggedout_noop": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_nametag": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share": {
+      "g": "", 
+      "p": {}
+    }, 
+    "web_share_lo": {
+      "g": "", 
+      "p": {}
+    }, 
+    "websr": {
+      "g": "", 
+      "p": {}
+    }
+  }, 
+  "rhx_gis": "896756ea1bf9f5a1cbdbe9a03b450abb", 
+  "rollout_hash": "80d4ae7d75e7", 
+  "server_checks": {}, 
+  "supports_es6": true, 
+  "zero_data": {}
+}

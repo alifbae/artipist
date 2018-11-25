@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import json
+import os.path
 
 # grab <script type="text/javascript>window._sharedData tag"
 def getScriptData(soup):
@@ -19,16 +20,16 @@ def makeJSON(sanitzedOutput):
 
 def makeJSONFile(jsonData, outputFilePath):
   with file(outputFilePath, 'w+') as jsonFileOut:
-    jsonFileOut.write(json.dumps(jsonData, indent=4, sort_keys=True))
+    jsonFileOut.write(json.dumps(jsonData, indent=2, sort_keys=True))
 
-def main(HTMLFilePath):
+def parse_file(HTMLFilePath, city_name):
   with file(HTMLFilePath) as HTMLFile:
     soup = BeautifulSoup(HTMLFile, features="html.parser")
     scriptData = getScriptData(soup)
     sanitizedOutput = sanitizeScriptData(scriptData)
     jsonData = makeJSON(sanitizedOutput)
-    makeJSONFile(jsonData, HTMLFilePath[:-4]+'json')
+    json_output_filepath = os.path.abspath('./json/artidote_'+city_name+'.json')
+    makeJSONFile(jsonData, json_output_filepath)
 
 
-# insert path to html file from which you want json
-main('../html/artidote_singapore.html')
+
