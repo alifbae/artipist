@@ -15,12 +15,12 @@ def main(url, filepath):
   )
   time.sleep(2)
   comments_button.click()
-  html = driver.page_source
 
+  html = driver.page_source
   with file(filepath, 'w+') as HTMLFile:
     HTMLFile.write(html.encode('utf-8'))
 
 main(
-  'https://www.instagram.com/p/BqfFwtdAexn/?hl=en',
-  '../html/artidote_singapore.html'
+  'https://www.instagram.com/p/BqfFwtdAexn/?hl=en',   # link to grab data
+  '../html/artidote_singapore.html'                   # path where html should be saved
 )
